@@ -11,7 +11,7 @@ title                    : "what did I learn today"
 title_separator          : "-"
 name                     : "Mike Fettis"
 description              : "daily log"
-url                      : http://ridingintraffic.github.io
+url                      : https://ridingintraffic.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : ridingintraffic/ridingintraffic.github.com
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
