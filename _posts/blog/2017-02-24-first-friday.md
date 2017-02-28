@@ -1,6 +1,6 @@
 ---
 layout: single
-title: first friday
+title: 2017-02-24 first friday
 modified:
 categories: blog
 excerpt:
