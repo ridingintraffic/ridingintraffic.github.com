@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : ridingintraffic
 facebook:
   username               :
   app_id                 :
@@ -89,9 +89,9 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "ridingintraffic"
   google_plus      :
-  keybase          :
+  keybase          : "ridingintraffic"
   instagram        : "ridingintraffic"
   lastfm           :
   linkedin         : "michael-fettis-a465538"
