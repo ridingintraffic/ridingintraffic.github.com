@@ -1,4 +1,7 @@
 bundle exec jekyll post "first friday"
+bundle exec jekyll post "first friday"
+
+
 
 Create your new draft using:
 $ bundle exec jekyll draft "My new draft"
