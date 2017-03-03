@@ -13,9 +13,9 @@ date: 2017-03-03T08:08:50-04:00
 ---
 # roast Info
 using the kill-a-watt attached to the router for exact wattage measurements on my 1200 watt poppery II.  full heat is 1000 watts with the heating coils fully isolated. Also there is a basic high temp thermometer that is simply dropped in the top
-> ambient air temp is 68 degrees with 25% humidity 
-> preheat to 275 which is stable heat at 650 watts 
-> fan should be run at 100% but can dial down subtly in order to finely adjust the temps
+* ambient air temp is 68 degrees with 25% humidity 
+* preheat to 275 which is stable heat at 650 watts 
+* fan should be run at 100% but can dial down subtly in order to finely adjust the temps
 
 |---+---+---|
 | wattage | time  | 
@@ -45,6 +45,21 @@ using the kill-a-watt attached to the router for exact wattage measurements on m
 [roaster large](https://ridingintraffic.github.io/assets/images/popperymod/roaster2.jpg "roaster large")
 
 The modification of the roaster is not that hard but it is important to take your time and go through all of the tutorials. My neighbor gave me some good input about the safety features built in to the roaster and advised that it is not good to bypass the thermal fuse/ thermostat. This was not done because a) it isnt safe and b) I was not having issues with the temps not getting high enough it was more about controlling the low end to slow down the initial phase of the roast process. 
+
+## parts list from amazon 
+
+
+
+* [Honeywell AT140A1000 40Va, 120V Transformer - 60 Hz.](https://www.amazon.com/gp/product/B000K2EC7K/ "Honeywell AT140A1000 40Va, 120V Transformer - 60 Hz.")
+* [TruePower 123 Variable Dial Router Speed Controller for Duct and Inline Fans](https://www.amazon.com/gp/product/B00YEGVC6W/ "TruePower 123 Variable Dial Router Speed Controller for Duct and Inline Fans")
+* [Leviton 6602-IW Trimatron 600W Incandescent Rotary Dimmer, Single Pole, White/Ivory](https://www.amazon.com/gp/product/B000FK9WYU/ "Leviton 6602-IW Trimatron 600W Incandescent Rotary Dimmer, Single Pole, White/Ivory")
+* [StarTech.com 3 ft Power Extension Cord - NEMA 5-15R to NEMA 5-15P - 16 AWG Power Extension Cable Cord - 125 Volts at 13 Amps - SJT - 3ft](https://www.amazon.com/gp/product/B00BBDKSVQ/ "StarTech.com 3 ft Power Extension Cord - NEMA 5-15R to NEMA 5-15P - 16 AWG Power Extension Cable Cord - 125 Volts at 13 Amps - SJT - 3ft")
+* [Steel City 52171 1/2&3/4E Pre-Galvanized Steel Square Box with Ground Bump and 1/2-Inch and 3/4-Inch Eccentric Knockouts](https://www.amazon.com/gp/product/B000HEFCKC/ "Steel City 52171 1/2&3/4E Pre-Galvanized Steel Square Box with Ground Bump and 1/2-Inch and 3/4-Inch Eccentric Knockouts")
+* [Arlington LPCG50-1 Low-Profile Strain Relief Cord Connector, 1/2 Inch](https://www.amazon.com/gp/product/B000MW6F7S/ "Arlington LPCG50-1 Low-Profile Strain Relief Cord Connector, 1/2 Inch")
+* [BNTECHGO 16 Gauge Silicone Wire 10 feet Red - Soft and Flexible High Temperature Resistant Highly Efficient 16 AWG Silicone Wire 252 Strands of copper wire](https://www.amazon.com/gp/product/B01CL08FWQ/ "BNTECHGO 16 Gauge Silicone Wire 10 feet Red - Soft and Flexible High Temperature Resistant Highly Efficient 16 AWG Silicone Wire 252 Strands of copper wire")
+* [Arlington Industries NM94 1/2" Plastic Romex Push-In Connector](https://www.amazon.com/gp/product/B003BG2I9Q/ "Arlington Industries NM94 1/2" Plastic Romex Push-In Connector")
+* [Hubbell Raco 800C 1 Toggle 4-Inch Square Exposed Work Cover](https://www.amazon.com/gp/product/B005JC6M5G/ "Hubbell Raco 800C 1 Toggle 4-Inch Square Exposed Work Cover")
+
 
 I am not going to reinvent the wheel here so I will copy and paste the tutorials below in case their sites ever go offline.
 
