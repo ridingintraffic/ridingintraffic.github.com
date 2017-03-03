@@ -41,8 +41,8 @@ using the kill-a-watt attached to the router for exact wattage measurements on m
 | drop| 12:30|
 
 # roaster modding
-![roastersmall](https://ridingintraffic.github.io/assets/images/popperymod/roastersmall.jpeg)
-[roaster large](https://ridingintraffic.github.io/assets/images/popperymod/roaster.JPG "roaster large")
+![roastersmall](https://ridingintraffic.github.io/assets/images/popperymod/roastersmall.jpg)
+[roaster large](https://ridingintraffic.github.io/assets/images/popperymod/roaster2.jpg "roaster large")
 
 The modification of the roaster is not that hard but it is important to take your time and go through all of the tutorials. My neighbor gave me some good input about the safety features built in to the roaster and advised that it is not good to bypass the thermal fuse/ thermostat. This was not done because a) it isnt safe and b) I was not having issues with the temps not getting high enough it was more about controlling the low end to slow down the initial phase of the roast process. 
 
