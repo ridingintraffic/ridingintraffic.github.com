@@ -16,5 +16,5 @@ Good to remember if you have ssh keys setup the `.ssh` folder is `700` and the `
 
 
 # markdown cheatsheet
-because markdwon is confusing
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+because markdwon is confusing [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown-Cheatsheet")
+
