@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 2017-3-1 js, karma, protractor, npm, bash, akamai
+title: 2017-03-01 js, karma, protractor, npm, bash, akamai
 modified:
 categories: blog
 excerpt:
