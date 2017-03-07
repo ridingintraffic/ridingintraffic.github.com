@@ -2,15 +2,13 @@
 layout: single
 title: 2017-02-24 first friday
 modified:
-categories: blog
 excerpt:
-tags : [intro, coffee, jekyll, hugo]
-image:
-  feature:
-date: 2017-02-24T08:08:50-04:00
-
-
-
+tags:
+  - intro
+  - coffee
+  - jekyll
+  - hugo
+ 
 ---
 
 # Today is the first day
