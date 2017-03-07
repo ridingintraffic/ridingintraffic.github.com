@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 2017-03-03 up all night
+title: 2017-03-03 ssh, bash
 modified:
 categories: blog
 excerpt:

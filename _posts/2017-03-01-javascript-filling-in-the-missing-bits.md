@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 2017-3-1 javascript filling in the missing bits
+title: 2017-3-1 js, karma, protractor, npm, bash, akamai
 modified:
 categories: blog
 excerpt:

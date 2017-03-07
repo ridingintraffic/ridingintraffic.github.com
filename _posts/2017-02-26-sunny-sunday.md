@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 2017-02-26 sunny sunday
+title: 2017-02-26 google, analytics, fitbit, fitness, github, dod, open source
 modified:
 categories: blog
 excerpt:

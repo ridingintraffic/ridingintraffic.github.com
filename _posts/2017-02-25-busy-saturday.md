@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 2017-02-25 busy saturday
+title: 2017-02-25 ithub, git, jekyll, ruby, mac, docker, raspberrypi
 tags : [github, git, jekyll, ruby, mac, docker, raspberrypi]
 modified:
 categories: blog
