@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 2017-03-05 vpns are annoying
+title: 2017-03-05 vpn, openvpn, fstab, raspberry-pi, vnc
 tags:
   - vpn
   - openvpn

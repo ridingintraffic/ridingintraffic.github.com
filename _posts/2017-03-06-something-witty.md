@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 2017-03-06 something witty
+title: 2017-03-06 git, splunk, lastpass-cli 
 modified:
 categories: blog
 excerpt:
