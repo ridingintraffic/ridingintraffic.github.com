@@ -1,6 +1,6 @@
 ---
 layout: single
-title: '2017-03-20 hubot'
+title: '2017-03-20 hubot, 42, hitchikers guide'
 
 ---
 
@@ -17,3 +17,9 @@ We have a bunch of webhooks that post a whole variety of message to slack.  It t
 
         if text.match(/dev-/i)
 ```
+# 42
+42 is the ascii code for * .
+In hitchikers guide to the galaxy 42 was used as the answer because it doesn't matter what the question is because the answer is whatever you want it to be 
+[ascii table](https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html "ascii table")
+
+[https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker's_Guide_to_the_Galaxy](https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker's_Guide_to_the_Galaxy "https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker's_Guide_to_the_Galaxy")
