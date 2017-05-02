@@ -14,6 +14,18 @@ date: 2017-03-08	T08:08:50-04:00
 # Roasting log
 
 
+|-+-+-|
+|3/16 inside |costa rican sonora|temp:68  | 
+|:-|:--:|-:|
+|start weight: 4.0 oz |end weight: 3.45 oz | | 
+|watt/time | temp - time  |           |  
+|preheat: 275   |     |325 - 7:15 |
+|650 4min  | 200 - 0:30   |350 - 8:50 |
+|800 4min  | 225 - 1:15   |375 - 9:50 |
+|          | 250 - 1:45   |400 - 11:10 |
+|drop 11:10| 275 - 3:30   ||
+|          | 300 - 5:00   ||
+
 
 |-+-+-|
 |3/2 inside |ethopia ugaro |temp:68  | 
