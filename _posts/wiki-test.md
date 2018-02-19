@@ -1,6 +1,6 @@
 ---
 layout: single
-title: wiki-test
+title: wiki test
 modified:
 categories: wiki
 image:
