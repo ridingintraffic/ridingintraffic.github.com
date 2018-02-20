@@ -10,3 +10,4 @@ image:
 
 # Wiki
 test
+[git notes](/wiki/git-notes/ "git notes")
