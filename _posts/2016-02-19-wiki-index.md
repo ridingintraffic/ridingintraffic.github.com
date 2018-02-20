@@ -11,5 +11,5 @@ image:
 # Wiki
 
 |-+-+-|
-|[git notes](/wiki/git-notes/ "git notes") | [chef notes](/wiki/chef-notes/ "chef notes")| |
-| | | |
+|[git](/wiki/git/ "git") | [chef](/wiki/chef/ "chef")| [ansible](/wiki/ansible/ "ansible")|
+|[qmk](/wiki/qmk/ "qmk") | | |
