@@ -9,6 +9,7 @@ image:
 ---
 
 # Wiki
-|-+-+-|
 
-|[git notes](/wiki/git-notes/ "git notes") | | |
+|-+-+-|
+|[git notes](/wiki/git-notes/ "git notes") | [chef notes](/wiki/chef-notes/ "chef notes")| |
+| | | |
