@@ -1,6 +1,6 @@
 ---
 layout: single
-title: wiki index
+title: index
 modified:
 categories: wiki
 image:
