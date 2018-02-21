@@ -12,5 +12,5 @@ image:
 
 |-+-+-|
 |[git](/wiki/git/ "git") | [chef](/wiki/chef/ "chef")| [ansible](/wiki/ansible/ "ansible")|
-|[qmk](/wiki/qmk/ "qmk") | | |
+|[qmk](/wiki/qmk/ "qmk") | [tmux](/wiki/tmux/ "tmux")| |
 
