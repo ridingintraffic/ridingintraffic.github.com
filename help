@@ -6,7 +6,6 @@ https://guides.github.com/features/mastering-markdown/
 Create your new draft using:
 $ bundle exec jekyll draft "My new draft"
 
-
 bundle exec jekyll publish _drafts/my-new-draft.md
 # or specify a specific date on which to publish it
 $ bundle exec jekyll publish _drafts/my-new-draft.md --date 2014-01-24
