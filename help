@@ -1,7 +1,7 @@
 bundle exec jekyll post "first friday"
 bundle exec jekyll post "first friday"
 
-
+https://guides.github.com/features/mastering-markdown/
 
 Create your new draft using:
 $ bundle exec jekyll draft "My new draft"
