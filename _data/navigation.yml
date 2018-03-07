@@ -7,6 +7,6 @@ main:
    - title: "Coffee roast log"
      url: /blog/roasting-log/
    - title: "Wiki"
-     url: /wiki/wiki-index/
+     url: https://ridingintraffic.github.io/docs/ 
   # - title: "Sitemap"
   #   url: /sitemap/
