@@ -6,7 +6,7 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
    - title: "Coffee roast log"
      url: /blog/roasting-log/
-   - title: "Wiki"
+   - title: "Docs"
      url: https://ridingintraffic.github.io/docs/ 
   # - title: "Sitemap"
   #   url: /sitemap/
