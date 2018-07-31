@@ -1,6 +1,6 @@
 ---
 layout: single
-title: '2018-01-04 speculation '
+title: '2018-01-04 processor_speculation '
 
 ---
 # Processor Speculative Execution 
