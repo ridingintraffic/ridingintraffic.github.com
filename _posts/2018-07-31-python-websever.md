@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 2018-07-31-python webserver
 date: 2018-07-31 13:12 -0500
 ---
