@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 2018-07-31-python webserver
+title: 2018_07_31_python_webserver
 date: 2018-07-31 13:12 -0500
 ---
 
