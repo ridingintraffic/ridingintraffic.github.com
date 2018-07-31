@@ -1,6 +1,6 @@
 ---
 layout: single
-title: '2018-01-03 keyboards '
+title: '2018-01-03 macbook_pro_keyboard'
 
 ---
 # Macbook pro keyboard
