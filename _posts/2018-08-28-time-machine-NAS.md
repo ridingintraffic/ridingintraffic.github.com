@@ -1,8 +1,8 @@
 ---
 layout: single
-title: 2018-08-28 Synology Time Machine
+title: 2018-08-28_Synology_Time_Machine
 modified:
-categories: blog
+categories: daily
 date: 2018-08-28T08:10:50-04:00
 ---
 
