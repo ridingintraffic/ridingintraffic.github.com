@@ -1,6 +1,7 @@
 ---
 layout: single
 title: 2018_08_02_mac_key_repeat_python_ping	
+categories: daily
 date: 2018-08-02 13:12 -0500
 ---
 

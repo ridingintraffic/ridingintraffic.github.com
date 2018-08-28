@@ -1,6 +1,7 @@
 ---
 layout: single
 title: 2018_07_31_python_webserver
+categories: daily
 date: 2018-07-31 13:12 -0500
 ---
 

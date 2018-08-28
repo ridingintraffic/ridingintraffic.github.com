@@ -1,6 +1,7 @@
 ---
 layout: single
 title: 2018_08_01_aws_cli_bundled_install
+categories: daily
 date: 2018-08-01 13:12 -0500
 ---
 
