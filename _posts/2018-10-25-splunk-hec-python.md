@@ -47,3 +47,16 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+
+# splunk http collector curl
+Most time basic terminal tools are the best tools...
+this is an example of curl and python to get a https collector token generated and then printed out ... Awesome for when you dont have JQ or any other fancy terminal tools.
+
+``````
+$ curl -s -u admin:<password> https://localhost:8089/servicesNS/nobody/system/data/inputs/http/?output_mode=json \
+-d name=crowdstrike_telemetry  \
+-d sourcetype=crowdstrike_telemetry \
+-d index=be02_crowdstrike \
+--insecure -X POST | python -c 'import json,sys;obj=json.load(sys.stdin);print obj["entry"][0]["content"]["token"]'
+$4fcb9bab-8050-4cce-ab18-c76638b8b271
+$```
