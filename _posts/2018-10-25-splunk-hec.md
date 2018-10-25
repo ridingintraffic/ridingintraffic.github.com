@@ -34,7 +34,7 @@ def splunkHec(host, token, logdata):
 def main():
   while True:
     
-  	data = ['kitchen','ballroom','conservatory','dining room','cellar','billiard room','library','lounge','hall','study']
+    data = ['kitchen','ballroom','conservatory','dining room','cellar','billiard room','library','lounge','hall','study']
     payload = {}
     payload.update({"index":"default"})
     payload.update({"sourcetype":"_json"})
