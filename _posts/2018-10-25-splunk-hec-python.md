@@ -72,5 +72,3 @@ Opps mistakes were made and we need to delete an http collector token from curl
 ```
 curl -k -X "DELETE" -u admin:<password> https://localhost:8089/servicesNS/admin/splunk_httpinput/data/inputs/http/<your_token_name>
 ```
-
-
