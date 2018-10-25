@@ -58,5 +58,5 @@ $ curl -s -u admin:<password> https://localhost:8089/servicesNS/nobody/system/da
 -d sourcetype=crowdstrike_telemetry \
 -d index=be02_crowdstrike \
 --insecure -X POST | python -c 'import json,sys;obj=json.load(sys.stdin);print obj["entry"][0]["content"]["token"]'
-$4fcb9bab-8050-4cce-ab18-c76638b8b271
+$ 4fcb9bab-8050-4cce-ab18-c76638b8b271
 $```
