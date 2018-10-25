@@ -38,7 +38,7 @@ def main():
     payload = {}
     payload.update({"index":"default"})
     payload.update({"sourcetype":"_json"})
-    payload.update({"source":"crowdstrikestatus"})
+    payload.update({"source":"status"})
     payload.update({"host":"test"})
     payload.update({"event":data})  
     splunkHec(splunkhost, authToken, payload)
@@ -59,9 +59,9 @@ this is an example of curl and python to get a https collector token generated a
 
 ```
 $ curl -s -u admin:<password> https://localhost:8089/servicesNS/nobody/system/data/inputs/http/?output_mode=json \
--d name=crowdstrike_telemetry  \
--d sourcetype=crowdstrike_telemetry \
--d index=be02_crowdstrike \
+-d name=named_token  \
+-d sourcetype=cnamed_sourcetype \
+-d index=default \
 --insecure -X POST | python -c 'import json,sys;obj=json.load(sys.stdin);print obj["entry"][0]["content"]["token"]'
 $ 4fcb9bab-8050-4cce-ab18-c76638b8b271
 $
