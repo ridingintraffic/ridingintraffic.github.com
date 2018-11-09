@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 2018_11_06_Outlook-reminders
+title: 2018-11-06 Outlook-reminders
 modified:
 categories: blog
 date: 2018-11-06T08:08:50-04:00

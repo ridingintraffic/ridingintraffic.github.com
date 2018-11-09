@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 2018_10_25_splunk-hec-python
+title: 2018-10-25 splunk-hec-python
 modified:
 categories: blog
 date: 2018-10-25T08:08:50-04:00

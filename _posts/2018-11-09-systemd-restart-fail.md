@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 2018_11_09_Systemd-restarts
+title: 2018-11-09 Systemd-restarts-splunk-py
 modified:
 categories: blog
 date: 2018-11-09T08:08:50-04:00
@@ -45,4 +45,43 @@ RestartSec=7200
 
 StandardOutput=journal
 StandardError=inherit
+```
+
+# splunk hec python
+before i had a splunk hec python bit that would do things to publish info into splunk from python.  This kind of worked but it had a weird bug in it...   that bug is fixed here.
+
+
+```
+#!/usr/bin/env python
+import time
+import requests
+import urllib3
+##turns off the warning that is generated below because using self signed ssl cert
+urllib3.disable_warnings()
+
+authToken="my token"
+splunkhost="localhost"
+
+
+def splunkHec(host, token, logdata):
+  url='https://'+host+':8088/services/collector/event'
+  authHeader = {'Authorization': 'Splunk '+token}
+  r = requests.post(url, headers=authHeader, json=logdata, verify=False)
+
+
+
+def main():
+  while True:
+  
+
+    payload = {}
+    payload.update({"index":"my_index"})
+    payload.update({"sourcetype":"mysourcetype"})
+    payload.update({"source":"mysource"})
+    payload.update({"host":"myhost"})
+    payload.update({"event":data})
+    splunkHec(splunkhost, authToken, payload)
+
+if __name__ == "__main__":
+    main()
 ```
