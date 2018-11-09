@@ -1,10 +1,9 @@
-
 ---
 layout: single
-title: 2018-11-05 Bash ctrl+r
+title: 2018-11-02 systemd-restarts-friday-links
 modified:
 categories: blog
-date: 2018-11-05T08:08:50-04:00
+date: 2018-11-02T08:08:50-04:00
 ---
 
 # Bash ctrl+r 
