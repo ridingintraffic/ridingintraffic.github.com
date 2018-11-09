@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: 2018_10_03_splunk-things

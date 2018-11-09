@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: 2018_11_09_Systemd-restarts

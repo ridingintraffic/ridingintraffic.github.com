@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: 2018_09_27_wifi_things_docker_things
