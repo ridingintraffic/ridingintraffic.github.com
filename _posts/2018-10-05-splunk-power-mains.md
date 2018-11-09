@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 2018-10-05 splunk-power-mains
+title: 2018_10_05_splunk-power-mains
 modified:
 categories: blog
 date: 2018-10-05T08:08:50-04:00
