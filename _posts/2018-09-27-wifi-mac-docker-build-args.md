@@ -1,7 +1,7 @@
 
 ---
 layout: single
-title: 2018-09-27 wifi_things_docker_things
+title: 2018_09_27_wifi_things_docker_things
 modified:
 categories: blog
 date: 2018-09-27T08:08:50-04:00

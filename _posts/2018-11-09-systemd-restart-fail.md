@@ -1,7 +1,7 @@
 
 ---
 layout: single
-title: 2018-11-09 Systemd-restarts
+title: 2018_11_09_Systemd-restarts
 modified:
 categories: blog
 date: 2018-11-09T08:08:50-04:00

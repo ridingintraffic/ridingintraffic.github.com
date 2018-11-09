@@ -1,7 +1,7 @@
 
 ---
 layout: single
-title: 2018-10-03 splunk-things
+title: 2018_10_03_splunk-things
 modified:
 categories: blog
 date: 2018-10-03T08:08:50-04:00
