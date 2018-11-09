@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 2018_11_02_systemd-restarts-friday-links
+title: 2018_11_05_bash-ctrl+r
 modified:
 categories: blog
 date: 2018-11-02T08:08:50-04:00
