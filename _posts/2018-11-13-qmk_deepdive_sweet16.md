@@ -1,3 +1,12 @@
+---
+layout: single
+title: 2018-11-13 QMK-deepdive-sweeet16
+modified:
+categories: blog
+date: 2018-11-13T08:08:50-04:00
+---
+
+# QMK deepdive using a sweeet16
 16 keys!? What can be done with 16 keys for a keyboard? Using an amazing open source firmware and a kit by 1upkeyboards, much can be done with only 16 keys. QMK is a powerhouse of a firmware that allows an endless combination of regular keys, functions and extended macros. These features are relatively easy to construct and the firmware itself can be very easy to build and flash.
 
 First things first what is a sweet16? It is a macropad sold as a kit, made by 1upkeyboards. This macropad requires assembly, which includes soldering in the diodes, arduino and switches. All and all the assembly should take from 20min to an hour depending on skillset and haste.
