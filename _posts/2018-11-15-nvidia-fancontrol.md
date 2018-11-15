@@ -20,11 +20,11 @@ Nvida gpu cards have firmware regulators in place that are OK with the cards run
 # https://www.blackhillsinfosec.com/running-hashcat-on-ubuntu-18-04-server-with-1080ti/
 
 ## black list for the win
-sudo bash -c "echo blacklist nouveau > /etc/modprobe.d/blacklist-nvidia-nouveau.conf"
+$ sudo bash -c "echo blacklist nouveau > /etc/modprobe.d/blacklist-nvidia-nouveau.conf"
 
-sudo bash -c "echo options nouveau modeset=0 >> /etc/modprobe.d/blacklist-nvidia-nouveau.conf"
+$ sudo bash -c "echo options nouveau modeset=0 >> /etc/modprobe.d/blacklist-nvidia-nouveau.conf"
 
-sudo update-initramfs -u
+$ sudo update-initramfs -u
 
 
  ```
