@@ -17,9 +17,9 @@ It is using the ideas that the systems that we create now are so complex and den
 # docker and python
 I needed to play with a python library and I hate installing things on my laptop and then leaving cruft around.  Using docker we can do a quick and dirty test of software.
 Lets pull down a docker image that has python in it real quick.
-` docker pull python:3.7.1-stretch`
+` docker pull python:3.7.1-stretch `
 then we can run it and get a shell
-`docker run --rm -it python:3.7.1-stretch /bin/bash`
-boom we are in , next quick fix `apt-get update && apt-get install -y vim`
+` docker run --rm -it python:3.7.1-stretch /bin/bash `
+boom we are in , next quick fix ` apt-get update && apt-get install -y vim `
 that will update the repos and give us vi so we can start writing stuff.   then the image already has git so go snag the python library that you wanted to mess with pull down the repo then run `python setup.py install` get it configured and we can either build a python script in vim or drop into a python interactive terminal.  Done,  throw away the garbage when your done.
 If you needed to save the stuff you were working on you can always volume mount and have your files out of the continer. 
