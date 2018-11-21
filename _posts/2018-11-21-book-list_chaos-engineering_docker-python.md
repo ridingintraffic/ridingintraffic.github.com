@@ -7,9 +7,9 @@ date: 2018-11-21T08:08:50-04:00
 ---
 
 # books
-Everyone like to read things right?   well I came across this list from palo alot earlier and it looks pretty promising. 
-[link](https://cybercanon.paloaltonetworks.com/ "cybercanon.paloaltonetworks")  There area  whole bunch of books in there raning from security to chaos engineering.  Down the chaos engineering rabbit hole we go
-checkout this list of chaos engineering everything here [link](https://github.com/dastergon/awesome-chaos-engineering "awesome-chaos-engineering") 
+Everyone like to read things right?   well I came across this list from palo alto earlier and it looks pretty promising. 
+[cybercanon.paloaltonetworks](https://cybercanon.paloaltonetworks.com/ "cybercanon.paloaltonetworks")  There area  whole bunch of books in there raning from security to chaos engineering.  Down the chaos engineering rabbit hole we go
+checkout this list of chaos engineering everything here [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering "awesome-chaos-engineering") 
 
 # what is chaos engineering?
 It is using the ideas that the systems that we create now are so complex and dense.  We are engineering the methods that will allow for random services and pieces to fail at random intervals.  Then if the systems are resilient enough, they should have self healing or fault tolerance built it.  if that is the case then the overall picture will all the system to function on some level, even when random components and interfaces are brought down unexpectedly.  This is all only possible if the systems themselves are in a measurable and steady state.  If you don't know what is healthy and have a means to measure healthy then it is going to be double tough to measure and understand unhealthy.  Then the second part as stated before is the ability for the systems to self heal and rebuild things on their own. that is the extra complex part. 
