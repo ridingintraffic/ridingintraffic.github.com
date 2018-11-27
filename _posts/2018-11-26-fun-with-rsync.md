@@ -15,4 +15,4 @@ Sometimes you jsut gotta back up files as clones, to another location.  On a mac
 # copy from nas to usb
 `rsync -av /Volumes/files/data/ /Volumes/1tb/backup/`
 
-mac will mount nas shares in the shar name and then in volumes, so this is reliant on that mount being present when you want to pull something down from said nas.  Not a big deal but it should be noted.
+mac will mount nas shares in the share name and then in volumes, so this is reliant on that mount being present when you want to pull something down from said nas.  Not a big deal but it should be noted.
