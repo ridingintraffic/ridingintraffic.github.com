@@ -11,5 +11,6 @@ I needed to connect to a sql db this morning and I didn't have a client.  Docker
 `docker run -it mysql /bin/bash` <br>
 `mysql -u <myuser> -p -h <myhost> <mydatabase>` <br> 
 and done. <br>
+when using the `-p` flag it will prompt you for the password instead of having it in the terminal. <br>
 Simple easy and connected.
 
