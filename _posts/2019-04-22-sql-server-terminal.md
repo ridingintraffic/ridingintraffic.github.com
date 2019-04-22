@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 2019-04-22 sql server terminal
+title: 2019-04-22 sql-server-terminal
 modified:
 categories: blog
 date: 2019-04-22-T08:08:50-04:00

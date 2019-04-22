@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 2019-04-09 github one liner - powershell curl
+title: 2019-04-09 github-one-liner-and-powershell-curl
 modified:
 categories: blog
 date: 2019-04-09-T08:08:50-04:00
