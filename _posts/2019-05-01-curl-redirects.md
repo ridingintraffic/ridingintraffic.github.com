@@ -6,7 +6,7 @@ categories: blog
 date: 2019-05-01-T08:08:50-04:00
 ---
 
-# curl redirtects
+# curl redirects
 Sometimes you want to be able to follow a redirect chain to see what is going on.<br>
 you can do that pretty easily with curl. <br>
 Toss in your url and hit enter then follow the breadcrumbs.
