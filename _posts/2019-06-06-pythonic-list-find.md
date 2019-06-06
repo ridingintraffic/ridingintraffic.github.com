@@ -20,11 +20,7 @@ tags=[
       },
       {
         "Key": "Name",
-        "Value": "myindexer"
-      },
-      {
-        "Key": "Sub-Department",
-        "Value": "CS"
+        "Value": "mymagicserver"
       },
       {
         "Key": "aws:autoscaling:groupName",
@@ -32,15 +28,15 @@ tags=[
       },
       {
         "Key": "Environment",
-        "Value": "Prod"
+        "Value": "cloudy"
       },
       {
-        "Key": "nane",
+        "Key": "name",
         "Value": "john"
       },
       {
         "Key": "Department",
-        "Value": "CS"
+        "Value": "sporting goods"
       },
       {
         "Key": "Auto-Off",
