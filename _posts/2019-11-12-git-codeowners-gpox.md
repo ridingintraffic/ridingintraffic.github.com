@@ -11,13 +11,13 @@ I like git I user git a lot, I did not know about CODEOWNERS, this is a nice fea
 
 # automatic PR approver to a repo
 Adding codeowners can allow for automatic PR approvers for branches or all things
-[https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners "github.com about-code-owners")
+[github.com about-code-owners](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners)
 
 You can use a CODEOWNERS file to define individuals or teams that are responsible for code in a repository.
 To use a CODEOWNERS file, create a new file called CODEOWNERS in the root, docs/, or .github/ directory of the repository, in the branch where you'd like to add the code owners.
 
 # Examples
-[https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners#example-of-a-codeowners-file](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners#example-of-a-codeowners-file "about-code-owners#example-of-a-codeowners-file")
+[about-code-owners#example-of-a-codeowners-file](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners#example-of-a-codeowners-file)
 ## generic example from github.com
 ```
 # <filename CODEOWNERS>
