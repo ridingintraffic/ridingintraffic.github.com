@@ -27,7 +27,7 @@ This is a thing that you can do to clean up your local git repo AFTER doing a co
     ```  
 5. source it  `source ~/.bash_profile` 
 
-
+# Cleaning repo with BFG  
 Now what do we do.  
 I will create a new folder, and then create a git repo in that folder.  
 This would be the same as doing a git clone...   
