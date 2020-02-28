@@ -25,9 +25,7 @@ This is a thing that you can do to clean up your local git repo AFTER doing a co
     echo 'alias bfg="java -jar ~/.binaries/bfg-1.13.0.jar"' >> ~/.bash_profile
     echo "export PATH=/Users/$(whoami)/.binaries:$PATH" >> ~/.bash_profile
     ```  
-5. source it  "source ~/.bash_profile"
-
-
+5. source it  `source ~/.bash_profile` 
 
 
 Now what do we do.  
