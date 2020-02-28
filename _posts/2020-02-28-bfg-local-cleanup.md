@@ -35,7 +35,7 @@ I will create a new folder, and then create a git repo in that folder.
 This would be the same as doing a git clone...   
 `mkdir testing-bfg`  
 `cd testing-bfg/`  
-`git init  
+`git init` 
 ```
 vi README.md
 # do things
