@@ -61,13 +61,16 @@ vi ~/my-mess
 AWS_TOKEN=X1V34
 PASSWORD=
 ```  
-
+Now we have our dirty git repo located at `testing-bfg`.  
+We also have a text file with the "things we want to remove from the repo" that is located at `~/my-mess`  
+We are going to run the bfg command which is aliased to `bfg` but you could also do this without the alias, `java -jar bfg-1.13.0.jar` 
+The `--no-blob-protection` is telling bfg to rewrite my current history in all my branches and make clean.  
 ```  
 bfg --replace-text ~/my-mess testing-bfg/ --no-blob-protection
 ```  
 Now you will have your file in a "modified" state according to git.  
 This is because your local file still has the BAD words in it, however your commit history does not. 
 Therefore it is considered modified.  
-Now, go through and change your local file to fix your shame and move forward.  
+Now, go through and change your local file to fix your shame and do a new commit and move forward.  
 
 `PROFIT`  
