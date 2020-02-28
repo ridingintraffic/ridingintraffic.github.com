@@ -14,16 +14,17 @@ This is a thing that you can do to clean up your local git repo AFTER doing a co
 
 # PREWORK
 1. Download BFG.jar 
-   https://rtyley.github.io/bfg-repo-cleaner/
-   https://repo1.maven.org/maven2/com/madgag/bfg/1.13.0/bfg-1.13.0.jar
-   wget https://repo1.maven.org/maven2/com/madgag/bfg/1.13.0/bfg-1.13.0.jar
+   [https://rtyley.github.io/bfg-repo-cleaner/](https://rtyley.github.io/bfg-repo-cleaner/)    
+   [https://repo1.maven.org/maven2/com/madgag/bfg/1.13.0/bfg-1.13.0.jar](https://repo1.maven.org/maven2/com/madgag/bfg/1.13.0/bfg-1.13.0.jar)  
 2. Create directory structure
-    mkdir -p ~/.binaries/
-3. Move BFG into place, chmod it 
-    mv bfg-1.13.0.jar ~/.binaries/ && chmod 777 ~/.binaries/bfg-1.13.0.jar
-4. setup BASH_PROFILE
+    `mkdir -p ~/.binaries/`  
+3. Move BFG into place, chmod it   
+    `mv bfg-1.13.0.jar ~/.binaries/ && chmod 777 ~/.binaries/bfg-1.13.0.jar`  
+4. setup BASH_PROFILE  
+    ```
     echo 'alias bfg="java -jar ~/.binaries/bfg-1.13.0.jar"' >> ~/.bash_profile
     echo "export PATH=/Users/$(whoami)/.binaries:$PATH" >> ~/.bash_profile
+    ```  
 5. source it  "source ~/.bash_profile"
 
 
