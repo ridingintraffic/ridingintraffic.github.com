@@ -11,7 +11,7 @@ image:
 # AWS credential_process
 There is a setting in the aws config that allows AWS to source the credentials externally.   This can be super handy if you don't want to store those as plain text things.  
 It is called "credential process".  We can use this in conjunction with  native openssl to give you a poor mans encrypted aws keys.  
-(https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-sourcing-external.html)[/cli-configure-sourcing-external]  
+[https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-sourcing-external.html](cli-configure-sourcing-external) 
 
 First we will take the aws credentials and dump them to a temp file this is named key.json  
 ```
@@ -39,7 +39,7 @@ Lets encrypt the file and prep it.
 $ ./encrypt.sh key.json
 # creates key.json.enc
 ```  
-Nezt we are going to setup our aws profile to read the creds from the external process.  This means that we will need to update `~/.aws/config` and pass the full path of the script and the full path of the encryptred blob.  
+Next we are going to setup our aws profile to read the creds from the external process.  This means that we will need to update `~/.aws/config` and pass the full path of the script and the full path of the encrypted blob.  
 ```
 #~/.aws/config
 [profile mine-encrypted]
