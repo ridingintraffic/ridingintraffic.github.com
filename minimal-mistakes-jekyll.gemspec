@@ -1,6 +1,8 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
+  spec.add_dependency "rake", ">= 12.3.3"
+  
   spec.name                    = "minimal-mistakes-jekyll"
   spec.version                 = "4.2.2"
   spec.authors                 = ["Michael Rose"]
