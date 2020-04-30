@@ -8,10 +8,10 @@ tags : [  ]
 image:
   feature:
 ---
-# using mulyiple .gitconfig
-There is a neat feature in .gitconfig that will allow you to use uniueq gitconfig dpeending the the folder structure that you have.   
+# using multiple .gitconfig
+There is a neat feature in .gitconfig that will allow you to use uniueq gitconfig depending on the folder structure that you have.   
 For example add this to your global gitconfig:
-This is assuming that `~/github` has one type org of repos, and `~/git` has another, much lke personal and corporate git repos
+This is assuming that `~/github` has one org of repos, and `~/git` has another, much lke personal and corporate git repos
 ```
 [includeIf "gitdir:~/git/"]
   path = ~/git/.gitconfig
@@ -26,5 +26,5 @@ Then if you add this is the correpsonding location, the user name/email will be 
 [core]
  hooksPath = ~/git/.git-hooks
  ```
- Thanks to this article in explaining it.
+ Thanks to this article in explaining it.	
 [setup-git-with-multiple-configs](https://itnext.io/setup-git-with-multiple-configs-9b4111d6928c)
