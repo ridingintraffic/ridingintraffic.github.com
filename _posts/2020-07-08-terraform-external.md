@@ -1,6 +1,6 @@
 ---
 layout: single
-title: '2020-07-08 Terrafrom external'
+title: '2020-07-08 Terraform external'
 modified:
 categories: daily
 excerpt:
