@@ -1,6 +1,6 @@
 ---
 layout: single
-title: '2020-11-12 bfg -delete'
+title: '2020-11-12 keybase gpg signing'
 modified:
 categories: daily
 excerpt:
