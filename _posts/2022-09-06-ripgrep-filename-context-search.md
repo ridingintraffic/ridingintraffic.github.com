@@ -15,7 +15,7 @@ I want to find a string in a specific filename that exists in many folders.  The
 
 ```
  rg '.wait:' -g '.gitlab-ci.yml' --context 5
-```
-The string that I am searching for is `.wait:`
-The filename that I want to search in is `.gitlab-ci.yml`
-I want to display 5 lines before and 5 lines after what I found.
+```  
+The string that I am searching for is `.wait:`  
+The filename that I want to search in is `.gitlab-ci.yml`  
+I want to display 5 lines before and 5 lines after what I found.  
