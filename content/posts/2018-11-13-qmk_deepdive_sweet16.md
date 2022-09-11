@@ -1,8 +1,8 @@
 ---
-layout: single
-title: 2018-11-13 QMK-deepdive-sweeet16
-modified:
-categories: blog
+draft: false
+title: 'QMK deepdive with 1up sweeet16'
+categories: [ article ]
+tags: [ qmk, keyboards ]
 date: 2018-11-13T08:08:50-04:00
 ---
 

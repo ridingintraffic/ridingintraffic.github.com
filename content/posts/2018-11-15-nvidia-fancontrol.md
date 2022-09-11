@@ -1,8 +1,8 @@
 ---
-layout: single
-title: 2018-11-15 hashcat-nvidia-fans
-modified:
-categories: blog
+draft: false
+title: 'hashcat with nvidia fans'
+categories: [ daily ]
+tags: [ hashcat ]
 date: 2018-11-15T08:08:50-04:00
 ---
 

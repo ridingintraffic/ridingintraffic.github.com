@@ -1,8 +1,8 @@
 ---
-layout: single
-title: 2018-11-13 git-bfg-cleaner
-modified:
-categories: blog
+draft: false
+title: 'git bfg cleaner'
+categories: [ article ]
+tags: [ git, bfg ]
 date: 2018-11-13T08:10:50-04:00
 ---
 # Git got big files or keys? Break out BFG

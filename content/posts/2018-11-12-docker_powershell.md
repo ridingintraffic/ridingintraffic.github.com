@@ -1,5 +1,5 @@
 ---
-layout: single
+draft: false
 title: 2018-11-12 docker-powershell
 modified:
 categories: blog

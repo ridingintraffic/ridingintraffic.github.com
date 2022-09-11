@@ -1,8 +1,8 @@
 ---
-layout: single
-title: 2018-11-14 hashcat-luks
-modified:
-categories: blog
+draft: false
+title: 'hashcat cracking luks'
+categories: [ daily ]
+tags: [ hashcat ]
 date: 2018-11-14T08:08:50-04:00
 ---
 

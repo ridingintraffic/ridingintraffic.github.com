@@ -1,8 +1,8 @@
 ---
-layout: single
-title: 2018-11-13 Mechanical_and_custom_keyboards
-modified:
-categories: blog
+draft: false
+title: 'Mechanical and custom keyboards'
+categories: [ article ]
+tags: [ qmk, keyboards ]
 date: 2018-11-13T08:08:50-04:00
 ---
 # Mechanical and custom keyboards
