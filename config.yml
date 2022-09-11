@@ -1,4 +1,4 @@
-baseURL: "https://ridingintraffic-beta.github.io/"
+baseURL: "https://ridingintraffic.github.io/"
 title: what did I learn today
 paginate: 20
 theme: PaperMod
@@ -100,7 +100,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/ridingintraffic-beta/ridingintraffic-beta.github.io/blob/main/content"
+    URL: "https://github.com/ridingintraffic/ridingintraffic.github.com/blob/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
