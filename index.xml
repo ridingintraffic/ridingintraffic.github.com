@@ -303,6 +303,16 @@ $ aws ec2 describe-instances --filters Name=tag:Name,Values=&amp;#39;MyMagicServ
     </item>
     
     <item>
+      <title>virtualbox shared clipboard and ripgrep install</title>
+      <link>https://ridingintraffic.github.io/posts/2018-11-30-virtualbox-shared-clipboard_ripgrep-install/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2018-11-30-virtualbox-shared-clipboard_ripgrep-install/</guid>
+      <description>Virtualbox shared clipboard When using virtualbox it is pretty important that you are going to want to have a shared clipboard between your machine and the vm. This can be done for linux/kali linux by doing the following.
+Start VirtualBox. Start the host in question. Once the host has booted, click Devices | Insert Guest Additions CD Image. Open up a terminal window in the guest. Mount the CD-ROM with the command sudo mount /dev/cdrom /mnt.</description>
+    </item>
+    
+    <item>
       <title>pihole and luks update</title>
       <link>https://ridingintraffic.github.io/posts/2018-11-28-pihole-and-luks-update/</link>
       <pubDate>Wed, 28 Nov 2018 08:08:50 -0400</pubDate>
@@ -1470,16 +1480,6 @@ paste like normal</description>
       <guid>https://ridingintraffic.github.io/posts/2018-12-11-netcat-portscanner/</guid>
       <description>netcat netcat can work like a portscanner. If it is the only tool that you have you make do. this is going to scan localhost across all of the ports
 nc -zv 127.0.0.1 1-65535 </description>
-    </item>
-    
-    <item>
-      <title>virtualbox shared clipboard and ripgrep install</title>
-      <link>https://ridingintraffic.github.io/posts/2018-11-30-virtualbox-shared-clipboard_ripgrep-install/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ridingintraffic.github.io/posts/2018-11-30-virtualbox-shared-clipboard_ripgrep-install/</guid>
-      <description>Virtualbox shared clipboard When using virtualbox it is pretty important that you are going to want to have a shared clipboard between your machine and the vm. This can be done for linux/kali linux by doing the following.
-Start VirtualBox. Start the host in question. Once the host has booted, click Devices | Insert Guest Additions CD Image. Open up a terminal window in the guest. Mount the CD-ROM with the command sudo mount /dev/cdrom /mnt.</description>
     </item>
     
   </channel>
