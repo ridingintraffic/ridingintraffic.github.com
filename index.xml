@@ -344,7 +344,7 @@ what is chaos engineering? It is using the ideas that the systems that we create
     </item>
     
     <item>
-      <title>2018-11-15 hashcat-nvidia-fans</title>
+      <title>hashcat with nvidia fans</title>
       <link>https://ridingintraffic.github.io/posts/2018-11-15-nvidia-fancontrol/</link>
       <pubDate>Thu, 15 Nov 2018 08:08:50 -0400</pubDate>
       
@@ -353,7 +353,7 @@ what is chaos engineering? It is using the ideas that the systems that we create
     </item>
     
     <item>
-      <title>2018-11-14 hashcat-luks</title>
+      <title>hashcat cracking luks</title>
       <link>https://ridingintraffic.github.io/posts/2018-11-14-luks-hashcat/</link>
       <pubDate>Wed, 14 Nov 2018 08:08:50 -0400</pubDate>
       
@@ -363,7 +363,7 @@ $ dd if=/dev/urandom of=test bs=1M count=100 $ cryptsetup luksFormat test #use p
     </item>
     
     <item>
-      <title>2018-11-13 git-bfg-cleaner</title>
+      <title>git bfg cleaner</title>
       <link>https://ridingintraffic.github.io/posts/2018-11-13-git-got-big-files-bfg/</link>
       <pubDate>Tue, 13 Nov 2018 08:10:50 -0400</pubDate>
       
@@ -372,7 +372,7 @@ $ dd if=/dev/urandom of=test bs=1M count=100 $ cryptsetup luksFormat test #use p
     </item>
     
     <item>
-      <title>2018-11-13 Mechanical_and_custom_keyboards</title>
+      <title>Mechanical and custom keyboards</title>
       <link>https://ridingintraffic.github.io/posts/2018-11-13-mechanical_and_custom_keyboards/</link>
       <pubDate>Tue, 13 Nov 2018 08:08:50 -0400</pubDate>
       
@@ -381,7 +381,7 @@ $ dd if=/dev/urandom of=test bs=1M count=100 $ cryptsetup luksFormat test #use p
     </item>
     
     <item>
-      <title>2018-11-13 QMK-deepdive-sweeet16</title>
+      <title>QMK deepdive with 1up sweeet16</title>
       <link>https://ridingintraffic.github.io/posts/2018-11-13-qmk_deepdive_sweet16/</link>
       <pubDate>Tue, 13 Nov 2018 08:08:50 -0400</pubDate>
       

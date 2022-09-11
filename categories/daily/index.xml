@@ -299,6 +299,25 @@ what is chaos engineering? It is using the ideas that the systems that we create
     </item>
     
     <item>
+      <title>hashcat with nvidia fans</title>
+      <link>https://ridingintraffic.github.io/posts/2018-11-15-nvidia-fancontrol/</link>
+      <pubDate>Thu, 15 Nov 2018 08:08:50 -0400</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2018-11-15-nvidia-fancontrol/</guid>
+      <description>nvidia fan settings Nvida gpu cards have firmware regulators in place that are OK with the cards running at 85c when they are under load. This is designed because of the assumption that the cards will only ever be under that kind of load for a short period. However when you want to run gpu&amp;rsquo;s at 100% utilization for an extended period it is often better to run these cards colder.</description>
+    </item>
+    
+    <item>
+      <title>hashcat cracking luks</title>
+      <link>https://ridingintraffic.github.io/posts/2018-11-14-luks-hashcat/</link>
+      <pubDate>Wed, 14 Nov 2018 08:08:50 -0400</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2018-11-14-luks-hashcat/</guid>
+      <description>luks encryption lets create an encrypted container and toss some data in it&amp;hellip;
+$ dd if=/dev/urandom of=test bs=1M count=100 $ cryptsetup luksFormat test #use password password $ cryptsetup luksOpen test tmp $ xxd -l 512 /dev/mapper/tmp # is random data at this point $ mkfs.ext4 /dev/mapper/tmp # use the same file system that is used by your system/device $ xxd -l 512 /dev/mapper/tmp # should no longer be random data $ cryptsetup luksClose tmp After it is created if we wanted to crack it with hashcat then we would just need to grab some header data and run it though</description>
+    </item>
+    
+    <item>
       <title>2018-08-28_Synology_Time_Machine</title>
       <link>https://ridingintraffic.github.io/posts/2018-08-28-time-machine-nas/</link>
       <pubDate>Tue, 28 Aug 2018 08:10:50 -0400</pubDate>

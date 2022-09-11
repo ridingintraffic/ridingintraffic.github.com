@@ -8,7 +8,26 @@
       <url>https://ridingintraffic.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://ridingintraffic.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ridingintraffic.github.io/tags/keyboards/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 13 Nov 2018 08:08:50 -0400</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/keyboards/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mechanical and custom keyboards</title>
+      <link>https://ridingintraffic.github.io/posts/2018-11-13-mechanical_and_custom_keyboards/</link>
+      <pubDate>Tue, 13 Nov 2018 08:08:50 -0400</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2018-11-13-mechanical_and_custom_keyboards/</guid>
+      <description>Mechanical and custom keyboards What was “old” is new again, Mechanical keyboards! A mechanical keyboard is one that has a discrete mechanical switch under each and every key. There are a number of sites out there that can go into the specific details about exactly how these function, as well as all the differences between the switches. This article is not going into much detail about the switches themselves but rather everything else.</description>
+    </item>
+    
+    <item>
+      <title>QMK deepdive with 1up sweeet16</title>
+      <link>https://ridingintraffic.github.io/posts/2018-11-13-qmk_deepdive_sweet16/</link>
+      <pubDate>Tue, 13 Nov 2018 08:08:50 -0400</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2018-11-13-qmk_deepdive_sweet16/</guid>
+      <description>QMK deepdive using a sweeet16 16 keys!? What can be done with 16 keys for a keyboard? Using an amazing open source firmware and a kit by 1upkeyboards, much can be done with only 16 keys. QMK is a powerhouse of a firmware that allows an endless combination of regular keys, functions and extended macros. These features are relatively easy to construct and the firmware itself can be very easy to build and flash.</description>
+    </item>
+    
     <item>
       <title>qmk-animations</title>
       <link>https://ridingintraffic.github.io/posts/2021-07-12/</link>

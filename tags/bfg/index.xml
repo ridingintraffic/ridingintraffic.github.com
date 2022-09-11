@@ -21,5 +21,14 @@ PREWORK Download BFG.jar https://rtyley.github.io/bfg-repo-cleaner/ https://repo
 mv bfg-1.13.0.jar ~/.binaries/ &amp;amp;&amp;amp; chmod 777 ~/.binaries/bfg-1.13.0.jar setup BASH_PROFILE echo &amp;#39;alias bfg=&amp;#34;java -jar ~/.binaries/bfg-1.13.0.jar&amp;#34;&amp;#39; &amp;gt;&amp;gt; ~/.bash_profile echo &amp;#34;export PATH=/Users/$(whoami)/.binaries:$PATH&amp;#34; &amp;gt;&amp;gt; ~/.bash_profile source it source ~/.bash_profile Cleaning repo with BFG Now what do we do.</description>
     </item>
     
+    <item>
+      <title>git bfg cleaner</title>
+      <link>https://ridingintraffic.github.io/posts/2018-11-13-git-got-big-files-bfg/</link>
+      <pubDate>Tue, 13 Nov 2018 08:10:50 -0400</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2018-11-13-git-got-big-files-bfg/</guid>
+      <description>Git got big files or keys? Break out BFG Everybody messes up, today&amp;rsquo;s mistake was adding a big file to git before a .gitignore was in place to handle it. As a result, github is rejecting the push, even after &amp;ldquo;removing&amp;rdquo; the file from git. The reason is that the file still exists in git(history). Time to clean up the mess, break out BFG and nuke it from orbit. -Sadly this means java is involved, but necessary demons.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -33,6 +33,15 @@ You can use a CODEOWNERS file to define individuals or teams that are responsibl
     </item>
     
     <item>
+      <title>git bfg cleaner</title>
+      <link>https://ridingintraffic.github.io/posts/2018-11-13-git-got-big-files-bfg/</link>
+      <pubDate>Tue, 13 Nov 2018 08:10:50 -0400</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2018-11-13-git-got-big-files-bfg/</guid>
+      <description>Git got big files or keys? Break out BFG Everybody messes up, today&amp;rsquo;s mistake was adding a big file to git before a .gitignore was in place to handle it. As a result, github is rejecting the push, even after &amp;ldquo;removing&amp;rdquo; the file from git. The reason is that the file still exists in git(history). Time to clean up the mess, break out BFG and nuke it from orbit. -Sadly this means java is involved, but necessary demons.</description>
+    </item>
+    
+    <item>
       <title>2017-03-06 git, splunk, lastpass-cli</title>
       <link>https://ridingintraffic.github.io/posts/2017-03-06-something-witty/</link>
       <pubDate>Mon, 06 Mar 2017 08:08:50 -0400</pubDate>
