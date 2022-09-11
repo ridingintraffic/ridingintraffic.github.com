@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>git on what did I learn today</title>
-    <link>https://ridingintraffic-beta.github.io/tags/git/</link>
+    <link>https://ridingintraffic.github.io/tags/git/</link>
     <description>Recent content in git on what did I learn today</description>
     <image>
-      <url>https://ridingintraffic-beta.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://ridingintraffic-beta.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://ridingintraffic.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ridingintraffic.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic-beta.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>unique .gitconfig</title>
-      <link>https://ridingintraffic-beta.github.io/posts/2020-04-30-unique-gitconfig/</link>
+      <link>https://ridingintraffic.github.io/posts/2020-04-30-unique-gitconfig/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 -0500</pubDate>
       
-      <guid>https://ridingintraffic-beta.github.io/posts/2020-04-30-unique-gitconfig/</guid>
+      <guid>https://ridingintraffic.github.io/posts/2020-04-30-unique-gitconfig/</guid>
       <description>using multiple .gitconfig There is a neat feature in .gitconfig that will allow you to use uniueq gitconfig depending on the folder structure that you have.
 For example add this to your global gitconfig: This is assuming that ~/github has one org of repos, and ~/git has another, much lke personal and corporate git repos
 [includeIf &amp;#34;gitdir:~/git/&amp;#34;] path = ~/git/.gitconfig [includeIf &amp;#34;gitdir:~/github/&amp;#34;] path = ~/github/.gitconfig Then if you add this is the correpsonding location, the user name/email will be different in each folder structure.</description>
@@ -23,10 +23,10 @@ For example add this to your global gitconfig: This is assuming that ~/github ha
     
     <item>
       <title>git codeowners gpox</title>
-      <link>https://ridingintraffic-beta.github.io/posts/2019-11-12-git-codeowners-gpox/</link>
+      <link>https://ridingintraffic.github.io/posts/2019-11-12-git-codeowners-gpox/</link>
       <pubDate>Tue, 12 Nov 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://ridingintraffic-beta.github.io/posts/2019-11-12-git-codeowners-gpox/</guid>
+      <guid>https://ridingintraffic.github.io/posts/2019-11-12-git-codeowners-gpox/</guid>
       <description>Some git notes I like git I user git a lot, I did not know about CODEOWNERS, this is a nice feature.
 automatic PR approver to a repo Adding codeowners can allow for automatic PR approvers for branches or all things github.com about-code-owners
 You can use a CODEOWNERS file to define individuals or teams that are responsible for code in a repository. To use a CODEOWNERS file, create a new file called CODEOWNERS in the root, docs/, or .</description>
@@ -34,10 +34,10 @@ You can use a CODEOWNERS file to define individuals or teams that are responsibl
     
     <item>
       <title>2017-03-06 git, splunk, lastpass-cli</title>
-      <link>https://ridingintraffic-beta.github.io/posts/2017-03-06-something-witty/</link>
+      <link>https://ridingintraffic.github.io/posts/2017-03-06-something-witty/</link>
       <pubDate>Mon, 06 Mar 2017 08:08:50 -0400</pubDate>
       
-      <guid>https://ridingintraffic-beta.github.io/posts/2017-03-06-something-witty/</guid>
+      <guid>https://ridingintraffic.github.io/posts/2017-03-06-something-witty/</guid>
       <description>git Git should know better and totally commit and add files that I was working on last night. I left an uncommited file sitting on a laptop at my house when I went to work today&amp;hellip; Rookie mistake.
 for ALL the repos
 $ git config --global user.name &amp;#34;John Doe&amp;#34; $ git config --global user.email &amp;#34;john@doe.org&amp;#34; only for oen repo
@@ -46,38 +46,38 @@ $ git config user.name &amp;#34;John Doe&amp;#34; $ git config user.email &amp;#
     
     <item>
       <title>2017-02-27 nginx, splunk, docker, git</title>
-      <link>https://ridingintraffic-beta.github.io/posts/2017-02-27-mondays/</link>
+      <link>https://ridingintraffic.github.io/posts/2017-02-27-mondays/</link>
       <pubDate>Mon, 27 Feb 2017 08:08:50 -0400</pubDate>
       
-      <guid>https://ridingintraffic-beta.github.io/posts/2017-02-27-mondays/</guid>
+      <guid>https://ridingintraffic.github.io/posts/2017-02-27-mondays/</guid>
       <description>Splunk and nginx Doing some splunkjs work from a docker container, and hosting it out of nginx, which means I needed to configure a proxy pass using some load balancing in order to access the splunk cluster, this was a little tricky because of session persistence and https. nginx load balancing Luckily there are some good pslunk blogs out there that help out configuring-nginx-with-splunk-rest-api-sdk-compatibility and some good reading about splunkjs read them both using-the-splunkjs-stack-part-1</description>
     </item>
     
     <item>
       <title>2017-02-25 ithub, git, jekyll, ruby, mac, docker, raspberrypi</title>
-      <link>https://ridingintraffic-beta.github.io/posts/2017-02-25-busy-saturday/</link>
+      <link>https://ridingintraffic.github.io/posts/2017-02-25-busy-saturday/</link>
       <pubDate>Sat, 25 Feb 2017 08:08:50 -0400</pubDate>
       
-      <guid>https://ridingintraffic-beta.github.io/posts/2017-02-25-busy-saturday/</guid>
+      <guid>https://ridingintraffic.github.io/posts/2017-02-25-busy-saturday/</guid>
       <description>Productive Saturday rant Been cranking away at my laptop from 630-830 this morning, and realizing that my ancient mac book air battery which was already replace once, is just a poor shadow of what it should be. I&amp;rsquo;m only going to get about 3 hours out of this battery before it dies. Which is sad because i really wanted to get a new laptop this year but mac did not really give us any options.</description>
     </item>
     
     <item>
       <title>github one liner and powershell curl</title>
-      <link>https://ridingintraffic-beta.github.io/posts/2019-04-09-github-one-liner/</link>
+      <link>https://ridingintraffic.github.io/posts/2019-04-09-github-one-liner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ridingintraffic-beta.github.io/posts/2019-04-09-github-one-liner/</guid>
+      <guid>https://ridingintraffic.github.io/posts/2019-04-09-github-one-liner/</guid>
       <description>Github releases There is a nice way to get the latest release from a github repo. as long as it gets tagged as release. I like to be able to pull down the latest version of a release for specific code in automated builds. This helps that.
 Use curl to get the JSON response for the latest release Use grep to find the line containing file URL Use cut and tr to extract the URL Use wget to download it</description>
     </item>
     
     <item>
       <title>keeping secrets out of git</title>
-      <link>https://ridingintraffic-beta.github.io/posts/2019-01-02-git-secrets/</link>
+      <link>https://ridingintraffic.github.io/posts/2019-01-02-git-secrets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ridingintraffic-beta.github.io/posts/2019-01-02-git-secrets/</guid>
+      <guid>https://ridingintraffic.github.io/posts/2019-01-02-git-secrets/</guid>
       <description>git-secrets I came across this handy piece of software today, called git-secrets. It is made by awslabs and it acts as a git-hook that will stop you form doing stupid things. https://github.com/awslabs/git-secrets</description>
     </item>
     

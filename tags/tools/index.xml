@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>tools on what did I learn today</title>
-    <link>https://ridingintraffic-beta.github.io/tags/tools/</link>
+    <link>https://ridingintraffic.github.io/tags/tools/</link>
     <description>Recent content in tools on what did I learn today</description>
     <image>
-      <url>https://ridingintraffic-beta.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://ridingintraffic-beta.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://ridingintraffic.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ridingintraffic.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 06 Sep 2022 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic-beta.github.io/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Sep 2022 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ripgrep file context</title>
-      <link>https://ridingintraffic-beta.github.io/posts/2022-09-06-ripgrep-filename-context-search/</link>
+      <link>https://ridingintraffic.github.io/posts/2022-09-06-ripgrep-filename-context-search/</link>
       <pubDate>Tue, 06 Sep 2022 00:00:00 -0500</pubDate>
       
-      <guid>https://ridingintraffic-beta.github.io/posts/2022-09-06-ripgrep-filename-context-search/</guid>
+      <guid>https://ridingintraffic.github.io/posts/2022-09-06-ripgrep-filename-context-search/</guid>
       <description>rip grep tip I use ripgrep all the time and often times there are little things that can really help you find what you are serarching for. This is one of them.
 I want to find a string in a specific filename that exists in many folders. Then I want to display those resutls with some context.
 rg &amp;#39;.wait:&amp;#39; -g &amp;#39;.gitlab-ci.yml&amp;#39; --context 5 The string that I am searching for is .</description>
@@ -23,38 +23,38 @@ rg &amp;#39;.wait:&amp;#39; -g &amp;#39;.gitlab-ci.yml&amp;#39; --context 5 The 
     
     <item>
       <title>github vscode</title>
-      <link>https://ridingintraffic-beta.github.io/posts/2022-04-27-vscode-github/</link>
+      <link>https://ridingintraffic.github.io/posts/2022-04-27-vscode-github/</link>
       <pubDate>Wed, 27 Apr 2022 00:00:00 -0500</pubDate>
       
-      <guid>https://ridingintraffic-beta.github.io/posts/2022-04-27-vscode-github/</guid>
+      <guid>https://ridingintraffic.github.io/posts/2022-04-27-vscode-github/</guid>
       <description>Github and gitlab both have online text editors. if you are in safari and you have a repo open for either of them. All you need to do is type the period key and they will pop full fledged web editors for you. with github you are actually getting vscode with gitlab you are getting their editor. this makes me miss github for my daily work environment. but i guess there is a gitlab plugin for vscode in the web.</description>
     </item>
     
     <item>
       <title>adding &lt;vs&gt;code to path</title>
-      <link>https://ridingintraffic-beta.github.io/posts/2022-03-14-vscode/</link>
+      <link>https://ridingintraffic.github.io/posts/2022-03-14-vscode/</link>
       <pubDate>Mon, 14 Mar 2022 00:00:00 -0500</pubDate>
       
-      <guid>https://ridingintraffic-beta.github.io/posts/2022-03-14-vscode/</guid>
+      <guid>https://ridingintraffic.github.io/posts/2022-03-14-vscode/</guid>
       <description>Adding code . to your terminal in order to open vscode. I like to maintain a terminal session running with just about everything that I am working on in it. Usually I work in VIM but lately I have needed to use vscode for a number of things. I like being ale to clone or switch the repo I am working on from the terminal and then open an editor directly from there.</description>
     </item>
     
     <item>
       <title>vim-jq</title>
-      <link>https://ridingintraffic-beta.github.io/posts/2021-01-19-vim-jq/</link>
+      <link>https://ridingintraffic.github.io/posts/2021-01-19-vim-jq/</link>
       <pubDate>Tue, 19 Jan 2021 00:00:00 -0500</pubDate>
       
-      <guid>https://ridingintraffic-beta.github.io/posts/2021-01-19-vim-jq/</guid>
+      <guid>https://ridingintraffic.github.io/posts/2021-01-19-vim-jq/</guid>
       <description>Format json in vim If you have jq installed then all you need to do, to pretty print json is.
 :%!jq &amp;#39;.&amp;#39; Bam pretty json in vim</description>
     </item>
     
     <item>
       <title>keybase gpg signing</title>
-      <link>https://ridingintraffic-beta.github.io/posts/2020-11-17-keybase-gpg-signing/</link>
+      <link>https://ridingintraffic.github.io/posts/2020-11-17-keybase-gpg-signing/</link>
       <pubDate>Tue, 17 Nov 2020 00:00:00 -0500</pubDate>
       
-      <guid>https://ridingintraffic-beta.github.io/posts/2020-11-17-keybase-gpg-signing/</guid>
+      <guid>https://ridingintraffic.github.io/posts/2020-11-17-keybase-gpg-signing/</guid>
       <description>I am borrowing this from pstadler because it is really good https://github.com/pstadler/keybase-gpg-github/blob/master/README.md
 Set up Keybase.io, GPG &amp;amp; Git to sign commits on GitHub This is a step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and use it with Git and GitHub.
 Although this guide was written for macOS, most commands should work in other operating systems as well.
@@ -63,20 +63,20 @@ There&amp;rsquo;s a video published by Timothy Miller explaining some parts of t
     
     <item>
       <title>bfg -delete</title>
-      <link>https://ridingintraffic-beta.github.io/posts/2020-11-12-bfg-delete-files/</link>
+      <link>https://ridingintraffic.github.io/posts/2020-11-12-bfg-delete-files/</link>
       <pubDate>Thu, 12 Nov 2020 00:00:00 -0500</pubDate>
       
-      <guid>https://ridingintraffic-beta.github.io/posts/2020-11-12-bfg-delete-files/</guid>
+      <guid>https://ridingintraffic.github.io/posts/2020-11-12-bfg-delete-files/</guid>
       <description>Help! I committed and pushed something dangerous to github This happens we are not perfect and from time to time mistakes are made. Thats ok we can fix it with bfg
 git add my-bad-file git commit -a -m &amp;#34;im dumb&amp;#34; git push origin master # I did not mean to do that, I did not mean to do that # Lets fix it # i am in the repo folder named my-repo rm my-bad-file git commit -a -m &amp;#34;go away&amp;#34; git push origin master cd .</description>
     </item>
     
     <item>
       <title>terraform destroy gpg pinentry</title>
-      <link>https://ridingintraffic-beta.github.io/posts/2020-11-11-tf-pinentry-gpg/</link>
+      <link>https://ridingintraffic.github.io/posts/2020-11-11-tf-pinentry-gpg/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 -0500</pubDate>
       
-      <guid>https://ridingintraffic-beta.github.io/posts/2020-11-11-tf-pinentry-gpg/</guid>
+      <guid>https://ridingintraffic.github.io/posts/2020-11-11-tf-pinentry-gpg/</guid>
       <description>pinentry is broken on my mac?! try this first
 # Kill gpg-agent killall gpg-agent # Run gpg-agent in daemon mode gpg-agent --daemon Universal handoff - clipboard mac/IOS There is a feature in mac land that allows you to share clipboard between phone and computer if they are both on the same wifi along with the same apple account. This can be super useful for a variety of applications.
 Here&amp;#39;s how to turn on Handoff on your devices: On your Mac: Choose Apple () menu &amp;gt; System Preferences, then click General.</description>
@@ -84,10 +84,10 @@ Here&amp;#39;s how to turn on Handoff on your devices: On your Mac: Choose Apple
     
     <item>
       <title>dot file automation</title>
-      <link>https://ridingintraffic-beta.github.io/posts/2018-12-02-dot-file-automation/</link>
+      <link>https://ridingintraffic.github.io/posts/2018-12-02-dot-file-automation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ridingintraffic-beta.github.io/posts/2018-12-02-dot-file-automation/</guid>
+      <guid>https://ridingintraffic.github.io/posts/2018-12-02-dot-file-automation/</guid>
       <description>dot file automation Sharpen and clean your tools to make them last longer. Hone your tools to make them more precise. The tools of a SRE start with the terminal. The terminal is honed sharp with dotfiles.
 Live your life long enough in a terminal and tweaks and customizations happen. Live longer and when those tweaks are lost from a catastrophe or when you switch machines, you will be hamstrung and saddened going back to nothing.</description>
     </item>
