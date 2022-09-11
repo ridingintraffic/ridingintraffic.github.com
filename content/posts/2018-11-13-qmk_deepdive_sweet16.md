@@ -62,10 +62,11 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
        SHRUG,   DISFACE,  HEARTFACE,    HAPPYFACE, 
        KC_ENT,  RGB_TOG,  MO(_LEDCNTL), MO(_TAPLAND)
     ),
-    ```
 
+```
 This first snippet is an example of the basic key layout. In the real firmware the variables initialization for all the custom keys is done at the top, but here is where the grid of keys are assigned and the “odd” names of tflip and disface are used, wat? This is the fun part, these odd keynames are actually functions that invoke sending hexcode combinations through the keyboard for that single key press which will print an inline ascii art reaction emoji.
 
+```
 tflip: (╯°□°)╯ ︵ ┻━┻
 tflip2: ┻━┻︵ \(°□°)/ ︵ ┻━┻
 fu: t(-_-t)
@@ -74,7 +75,10 @@ shrug: ¯\_(ツ)_/¯
 disface: ಠ_ಠ
 heartface: ♥‿♥
 happyface: ʘ‿ʘ
+```
+
 These custom keycodes when pressed, trigger a function that passes the hexcodes. This is done simply below
+
 ```
 bool process_record_user(uint16_t keycode, keyrecord_t *record) {
     if (record->event.pressed) {
@@ -194,8 +198,12 @@ config.h
 #define EXAMPLESTRING4 "tapdance_4"
 ```
 
-Here the keycode TD_EXAMPLE1 is bound to the tapdance function tdexample1 and then that function sends the string that was defined in config.h that outputs tapdance_1 . It sounds a little complicated but break it down and then its simple, tap the key once get an emjoi, double tap the key get a whole string. Add in a layer shift and then there is an entire new functionality behind the key. And it is done The sweet16 macropad is now massively more useful than just a single numpad with 16 buttons. The macropad has enough memory to do at least 4+ layers like this. At which point it is pretty tough to keep all the functions memorized.
+Here the keycode `TD_EXAMPLE1` is bound to the tapdance function tdexample1 and then that function sends the string that was defined in config.h that outputs tapdance_1 . It sounds a little complicated but break it down and then its simple, tap the key once get an emjoi, double tap the key get a whole string. Add in a layer shift and then there is an entire new functionality behind the key. And it is done The sweet16 macropad is now massively more useful than just a single numpad with 16 buttons. The macropad has enough memory to do at least 4+ layers like this. At which point it is pretty tough to keep all the functions memorized.
 
-But thats not all. QMK comes equipped with a Dockerfile. Which means building the firmware is as simple as having docker installed and then running the build process from docker. An example command would be: docker run -e keymap=ridingintraffic -e keyboard=1upkeyboards/sweet16 — rm -v $('pwd'):/qmk:rw edasque/qmk_firmware Through the power of docker it is volume mounting the working directory with all of the keyboard keymaps, into the image and then all of the build dependancies are prebuilt in the image and the Ccode is then converted into a hex file in the root folder of QMK. No muss no fuss just a clean build environment and the compiled hex files for the keyboard. Anyone that has tried to compile firmware before, knows that this is a massive time savings and the reproducibility is incredible.
+But thats not all. QMK comes equipped with a Dockerfile. Which means building the firmware is as simple as having docker installed and then running the build process from docker. An example command would be: 
+```
+docker run -e keymap=ridingintraffic -e keyboard=1upkeyboards/sweet16 — rm -v $('pwd'):/qmk:rw edasque/qmk_firmware
+```
+ Through the power of docker it is volume mounting the working directory with all of the keyboard keymaps, into the image and then all of the build dependancies are prebuilt in the image and the Ccode is then converted into a hex file in the root folder of QMK. No muss no fuss just a clean build environment and the compiled hex files for the keyboard. Anyone that has tried to compile firmware before, knows that this is a massive time savings and the reproducibility is incredible.
 
 Thats it! A macropad and an entire open source firmware that supports over 120 keyboards. QMK and the open source community behind it are wonderful. There is a discord chat as well if chatting to a human is helpful when stuck, or let me know and I can help out wherever I can.
