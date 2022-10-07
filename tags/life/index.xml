@@ -9,7 +9,16 @@
       <link>https://ridingintraffic.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 12 Sep 2022 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Oct 2022 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>open a folder from terminal</title>
+      <link>https://ridingintraffic.github.io/posts/2022-10-07-open-folder-terminal/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 -0500</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2022-10-07-open-folder-terminal/</guid>
+      <description>open a finder in the terminal of a mac if you need to open a finder window you can just type open or if you want to open the finder with the folder that you are in as the path you can type open . and like that you have magically opened the folder and you are good to go.</description>
+    </item>
+    
     <item>
       <title>muting a microwave</title>
       <link>https://ridingintraffic.github.io/posts/2022-09-12-muting-a-microware/</link>
@@ -18,15 +27,6 @@
       <guid>https://ridingintraffic.github.io/posts/2022-09-12-muting-a-microware/</guid>
       <description>Microware muting Ok fine usually I will talk about tech things and IT things, but this is a quality of life thing. It turns out that you can mute your microwave. While i never thought that this would be a thing, it does make really good sense and yea, that should be a thing. 30 seconds later I googled &amp;ldquo;mute microwave&amp;rdquo; and low and behold.
 whirlpool microwave: keypad mute: press and hold 1 for 3 seconds hear &amp;#34;beep beep&amp;#34; end of cycle mute: pread and hold 2 for 3 seconds hear &amp;#34;beep beep&amp;#34; </description>
-    </item>
-    
-    <item>
-      <title>muting a microwave</title>
-      <link>https://ridingintraffic.github.io/posts/2022-10-07-building-keyboards-notes/</link>
-      <pubDate>Mon, 12 Sep 2022 00:00:00 -0500</pubDate>
-      
-      <guid>https://ridingintraffic.github.io/posts/2022-10-07-building-keyboards-notes/</guid>
-      <description>building keyboards good surface mount diodes https://www.mouser.com/ProductDetail/821-1N4148WRHG</description>
     </item>
     
   </channel>

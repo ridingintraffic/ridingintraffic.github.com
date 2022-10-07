@@ -9,17 +9,23 @@
       <link>https://ridingintraffic.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 07 Aug 2022 14:41:47 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/qmk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Oct 2022 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/qmk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>building keyboard notes</title>
+      <link>https://ridingintraffic.github.io/posts/2022-10-07-building-keyboards-notes/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 -0500</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2022-10-07-building-keyboards-notes/</guid>
+      <description>building keyboards good surface mount diodes https://www.mouser.com/ProductDetail/821-1N4148WRHG</description>
+    </item>
+    
     <item>
       <title>Building QMK with Rp2040</title>
       <link>https://ridingintraffic.github.io/posts/2022-08-04-rp2040/</link>
       <pubDate>Sun, 07 Aug 2022 14:41:47 -0500</pubDate>
       
       <guid>https://ridingintraffic.github.io/posts/2022-08-04-rp2040/</guid>
-      <description>player 2(040) has entered the game. During the past 2 years if you had not noticed, there has been a chip shortage. Namely the atmega 32u4 chips that power the elite-c and pro micros microcontrollers that are at the centers of custom keyboards. It just so happened that during this time raspberry pi developed a microcontroller of their own.
-This is known as the rp2040.
-rp2040
-Why does this matter? Well we can now get the 2040 as a drop in replacement for the pro micros.</description>
+      <description>player 2(040) has entered the game. During the past 2 years if you had not noticed, there has been a chip shortage. Namely the atmega 32u4 chips that power the elite-c and pro micros microcontrollers that are at the centers of custom keyboards. It just so happened that during this time raspberry pi developed a microcontroller of their own. This is known as the rp2040. rp2040 Why does this matter? Well we can now get the 2040 as a drop in replacement for the pro micros.</description>
     </item>
     
     <item>
