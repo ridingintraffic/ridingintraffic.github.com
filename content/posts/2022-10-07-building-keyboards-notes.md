@@ -1,9 +1,9 @@
 ---
-date: 2022-09-12T00:00:00-05:00
+date: 2022-10-07T00:00:00-05:00
 draft: false
-title: 'muting a microwave'
-categories: [ daily ]
-tags : [ life ]
+title: 'building keyboard notes'
+tags: [ qmk, rp2040, rpi ]
+categories: [ keyboards ]
 ---
 
 # building keyboards
