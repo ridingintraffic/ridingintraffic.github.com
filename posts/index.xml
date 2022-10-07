@@ -21,6 +21,15 @@ whirlpool microwave: keypad mute: press and hold 1 for 3 seconds hear &amp;#34;b
     </item>
     
     <item>
+      <title>muting a microwave</title>
+      <link>https://ridingintraffic.github.io/posts/2022-10-07-building-keyboards-notes/</link>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 -0500</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2022-10-07-building-keyboards-notes/</guid>
+      <description>building keyboards good surface mount diodes https://www.mouser.com/ProductDetail/821-1N4148WRHG</description>
+    </item>
+    
+    <item>
       <title>ripgrep file context</title>
       <link>https://ridingintraffic.github.io/posts/2022-09-06-ripgrep-filename-context-search/</link>
       <pubDate>Tue, 06 Sep 2022 00:00:00 -0500</pubDate>
