@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ridingintraffic.github.io/posts/2022-10-07-building-keyboards-notes/</loc>
-    <lastmod>2022-10-07T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://ridingintraffic.github.io/categories/</loc>
-    <lastmod>2022-10-07T00:00:00-05:00</lastmod>
+    <lastmod>2023-01-17T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://ridingintraffic.github.io/categories/daily/</loc>
+    <lastmod>2023-01-17T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://ridingintraffic.github.io/tags/life/</loc>
+    <lastmod>2023-01-17T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://ridingintraffic.github.io/posts/</loc>
+    <lastmod>2023-01-17T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://ridingintraffic.github.io/tags/</loc>
+    <lastmod>2023-01-17T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://ridingintraffic.github.io/posts/2023-01-17-vertical-keyboard/</loc>
+    <lastmod>2023-01-17T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://ridingintraffic.github.io/</loc>
+    <lastmod>2023-01-17T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://ridingintraffic.github.io/posts/2022-10-07-building-keyboards-notes/</loc>
     <lastmod>2022-10-07T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://ridingintraffic.github.io/categories/keyboards/</loc>
     <lastmod>2022-10-07T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://ridingintraffic.github.io/tags/life/</loc>
-    <lastmod>2022-10-07T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://ridingintraffic.github.io/posts/2022-10-07-open-folder-terminal/</loc>
-    <lastmod>2022-10-07T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://ridingintraffic.github.io/posts/</loc>
     <lastmod>2022-10-07T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://ridingintraffic.github.io/tags/qmk/</loc>
@@ -30,12 +39,6 @@
     <lastmod>2022-10-07T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://ridingintraffic.github.io/tags/rpi/</loc>
-    <lastmod>2022-10-07T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://ridingintraffic.github.io/tags/</loc>
-    <lastmod>2022-10-07T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://ridingintraffic.github.io/</loc>
     <lastmod>2022-10-07T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://ridingintraffic.github.io/posts/2022-09-12-muting-a-microware/</loc>
