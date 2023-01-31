@@ -9,7 +9,17 @@
       <link>https://ridingintraffic.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 17 Jan 2023 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Jan 2023 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>fun with cloudwatch logs</title>
+      <link>https://ridingintraffic.github.io/posts/2023-01-31-cloudwatch-logs/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2023-01-31-cloudwatch-logs/</guid>
+      <description>writing directly to cloudwatch logs sometimes you just need to write to a cloudwatch log and you want to do that from the terminal? You can do this with jq bash and aws cli yey
+timestamp=$(date +%s000); \ json_data=$(jq --null-input --arg timestamp $timestamp &amp;#39;{&amp;#34;timestamp&amp;#34;: ($timestamp|tonumber), &amp;#34;message&amp;#34;: &amp;#34;ssn: 123-12-1234&amp;#34;}&amp;#39;); \ aws logs put-log-events --log-group-name /dev/ridigintraffic --log-stream-name something-special --log-events &amp;#34;$json_data&amp;#34; </description>
+    </item>
+    
     <item>
       <title>vertical keyboards</title>
       <link>https://ridingintraffic.github.io/posts/2023-01-17-vertical-keyboard/</link>
