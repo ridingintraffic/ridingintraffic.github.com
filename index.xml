@@ -9,7 +9,17 @@
       <link>https://ridingintraffic.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 31 Jan 2023 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>wireless zmk mac sleep waking bug</title>
+      <link>https://ridingintraffic.github.io/posts/2023-02-01-zmk-mac-power/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2023-02-01-zmk-mac-power/</guid>
+      <description>bug in zmk fancy keyboards use a controller called a nice nano, that nice nano runs a firmware called zmk. That firmware has a fair few options to configure a few things.
+One of the nice options is deep sleep, which powers things down to save battery on the board when not in use. Many people argue that this feature eliminates the need for a physical battery switch. However there is a bug with mac that is/was waking up the mac from sleep eventhough the &amp;ldquo;keyboard is alseep&amp;rdquo; You can fix it with.</description>
+    </item>
+    
     <item>
       <title>fun with cloudwatch logs</title>
       <link>https://ridingintraffic.github.io/posts/2023-01-31-cloudwatch-logs/</link>
