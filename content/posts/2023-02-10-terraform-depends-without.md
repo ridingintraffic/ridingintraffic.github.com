@@ -5,19 +5,20 @@ draft: false
 categories: [ blog ]
 tags : [ terraform ]
 ---
-Terraform depends pattern without depends_on.
-Or how to use hcl to leverage its interal dependancy handling, to to hard things for you.
-We are going to use an example of an aws sqs queue, dlq, and queue policy all strung together. The issue that I ran in to was I wanted to create all of these using a single list of words as my seed values.  Then the issue arose around using a for_each with a dynamic resource group when terraform would need group 1 to be appied before it knew what to setup for group 2.  Terraform was not happy about this and it was known as a big ball of ugh.
-Lets dive in then.
+Terraform depends pattern without depends_on.  
+Or how to use hcl to leverage its interal dependancy handling, to to hard things for you.  
+We are going to use an example of an aws sqs queue, dlq, and queue policy all strung together. The issue that I ran in to was I wanted to create all of these using a single list of words as my seed values.  Then the issue arose around using a for_each with a dynamic resource group when terraform would need group 1 to be appied before it knew what to setup for group 2.  Terraform was not happy about this and it was known as a big ball of ugh.  
+Lets dive in then.  
 
-First we start with a set of locals,  which is just a set of words.
+First we start with a set of locals,  which is just a set of words.  
 ```
 locals {
   list_of_things = toset(["bird", "dog", "cat", "puppy", "fish"])
 }
 ```
-Then we need to construct a group of sqs queues, policies and dlqs.
-In order to create a sqs with dlq we needed to have the dlq first.  This is because of the dlq needed to be referenced in the sqs.
+Then we need to construct a group of sqs queues, policies and dlqs.  
+In order to create a sqs with dlq we needed to have the dlq first.  
+This is because of the dlq needed to be referenced in the sqs.  
 ```
 resource "aws_sqs_queue"  "list_of_things_dlq" {
   for_each = local.list_of_things
@@ -28,10 +29,10 @@ resource "aws_sqs_queue"  "list_of_things_dlq" {
   message_retention_seconds = 86400 # 2592000 = 30 days
   receive_wait_time_seconds = 10
 }
-```
-Alright now we have the dlq and this is going to be the only time that we reference the local directly.
-Next we are going to create the group of sqs taking in the dlq and then doing a cute little replace to clean it up.
-This is going to ensure that the dlq is spun up first because the for_each here is looking at the queue name for the original loop and then feeding the name value in to the queue name with a little regex scrub, and also using the actual dlq name for the deadLetterTargetARN.
+```  
+Alright now we have the dlq and this is going to be the only time that we reference the local directly.  
+Next we are going to create the group of sqs taking in the dlq and then doing a cute little replace to clean it up.  
+This is going to ensure that the dlq is spun up first because the for_each here is looking at the queue name for the original loop and then feeding the name value in to the queue name with a little regex scrub, and also using the actual dlq name for the deadLetterTargetARN.  
 ```
 resource "aws_sqs_queue" "list_of_things" {
   for_each = aws_sqs_queue.list_of_things_dlq
@@ -48,7 +49,7 @@ resource "aws_sqs_queue" "list_of_things" {
 }
 ```
 
-Finally we are going to create the queue policies for the dlq and the regular queue by  for_each-ing over the queues individually.  Thus setting up a nice bit of recursion to handle all this.
+Finally we are going to create the queue policies for the dlq and the regular queue by  for_each-ing over the queues individually.  Thus setting up a nice bit of recursion to handle all this.  
 ```
 ## dlq policies
 resource "aws_sqs_queue_policy" "list_of_things_dlq" {
