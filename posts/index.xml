@@ -16,7 +16,9 @@
       <pubDate>Fri, 10 Feb 2023 00:00:00 -0500</pubDate>
       
       <guid>https://ridingintraffic.github.io/posts/2023-02-10-terraform-depends-without/</guid>
-      <description>Terraform depends pattern without depends_on. Or how to use hcl to leverage its interal dependancy handling, to to hard things for you. We are going to use an example of an aws sqs queue, dlq, and queue policy all strung together. The issue that I ran in to was I wanted to create all of these using a single list of words as my seed values. Then the issue arose around using a for_each with a dynamic resource group when terraform would need group 1 to be appied before it knew what to setup for group 2.</description>
+      <description>Terraform depends pattern without depends_on.
+Or how to use hcl to leverage its interal dependancy handling, to to hard things for you.
+We are going to use an example of an aws sqs queue, dlq, and queue policy all strung together. The issue that I ran in to was I wanted to create all of these using a single list of words as my seed values. Then the issue arose around using a for_each with a dynamic resource group when terraform would need group 1 to be appied before it knew what to setup for group 2.</description>
     </item>
     
     <item>
@@ -25,7 +27,9 @@
       <pubDate>Thu, 09 Feb 2023 00:00:00 -0500</pubDate>
       
       <guid>https://ridingintraffic.github.io/posts/2023-02-09-hold-for-accent/</guid>
-      <description>Just another basic reminder for a thing that I fixed with my laptop when it was acting odd and weird; I was working on my mac and I kept encouring a weird behavior where certain keys that were held down would not repeat, but would pop up a prompt on my screen to enter some kind of special accented internantionl character. In macOS, when a key is held down while entering text, a popup is shown which lets one choose between various accented forms of the character.</description>
+      <description>Just another basic reminder for a thing that I fixed with my laptop when it was acting odd and weird;
+I was working on my mac and I kept encouring a weird behavior where certain keys that were held down would not repeat, but would pop up a prompt on my screen to enter some kind of special accented internantionl character.
+In macOS, when a key is held down while entering text, a popup is shown which lets one choose between various accented forms of the character.</description>
     </item>
     
     <item>
