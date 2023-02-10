@@ -1,10 +1,11 @@
+---
 date: 2023-02-09T00:00:00-05:00
 draft: false
 title: 'macos text entering weirdness'
 categories: [ daily ]
 tags : [ life ]
 ---
-Just another basic reminder for a thing that I fixed with my laptop when it was acting odd and weird
+Just another basic reminder for a thing that I fixed with my laptop when it was acting odd and weird;
 I was working on my mac and I kept encouring a weird behavior where certain keys that were held down would not repeat, but would pop up a prompt on my screen to enter some kind of special accented internantionl character.
 In macOS, when a key is held down while entering text, a popup is shown which lets one choose between various accented forms of the character. To disable this execute the following command line in the Terminal.app:
 `defaults write -g ApplePressAndHoldEnabled -bool false`
