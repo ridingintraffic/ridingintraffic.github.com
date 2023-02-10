@@ -9,7 +9,16 @@
       <link>https://ridingintraffic.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Feb 2023 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>macos text entering weirdness</title>
+      <link>https://ridingintraffic.github.io/posts/2023-02-09-hold-for-accent/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2023-02-09-hold-for-accent/</guid>
+      <description>Just another basic reminder for a thing that I fixed with my laptop when it was acting odd and weird; I was working on my mac and I kept encouring a weird behavior where certain keys that were held down would not repeat, but would pop up a prompt on my screen to enter some kind of special accented internantionl character. In macOS, when a key is held down while entering text, a popup is shown which lets one choose between various accented forms of the character.</description>
+    </item>
+    
     <item>
       <title>wireless zmk mac sleep waking bug</title>
       <link>https://ridingintraffic.github.io/posts/2023-02-01-zmk-mac-power/</link>

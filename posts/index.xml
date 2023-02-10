@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>macos text entering weirdness</title>
+      <link>https://ridingintraffic.github.io/posts/2023-02-09-hold-for-accent/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2023-02-09-hold-for-accent/</guid>
+      <description>Just another basic reminder for a thing that I fixed with my laptop when it was acting odd and weird; I was working on my mac and I kept encouring a weird behavior where certain keys that were held down would not repeat, but would pop up a prompt on my screen to enter some kind of special accented internantionl character. In macOS, when a key is held down while entering text, a popup is shown which lets one choose between various accented forms of the character.</description>
+    </item>
+    
+    <item>
       <title>wireless zmk mac sleep waking bug</title>
       <link>https://ridingintraffic.github.io/posts/2023-02-01-zmk-mac-power/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 -0500</pubDate>
@@ -698,15 +707,6 @@ fitbit There has been research done around the accuracy of optical heart rate mo
       
       <guid>https://ridingintraffic.github.io/posts/2017-02-25-busy-saturday/</guid>
       <description>Productive Saturday rant Been cranking away at my laptop from 630-830 this morning, and realizing that my ancient mac book air battery which was already replace once, is just a poor shadow of what it should be. I&amp;rsquo;m only going to get about 3 hours out of this battery before it dies. Which is sad because i really wanted to get a new laptop this year but mac did not really give us any options.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ridingintraffic.github.io/posts/2023-02-09-hold-for-accent/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ridingintraffic.github.io/posts/2023-02-09-hold-for-accent/</guid>
-      <description>date: 2023-02-09T00:00:00-05:00 draft: false title: &amp;lsquo;macos text entering weirdness&amp;rsquo; categories: [ daily ] tags : [ life ] Just another basic reminder for a thing that I fixed with my laptop when it was acting odd and weird I was working on my mac and I kept encouring a weird behavior where certain keys that were held down would not repeat, but would pop up a prompt on my screen to enter some kind of special accented internantionl character.</description>
     </item>
     
     <item>
