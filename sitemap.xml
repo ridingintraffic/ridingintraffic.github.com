@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ridingintraffic.github.io/categories/blog/</loc>
+    <lastmod>2023-02-10T00:00:00-05:00</lastmod>
+  </url><url>
     <loc>https://ridingintraffic.github.io/categories/</loc>
-    <lastmod>2023-02-01T00:00:00-05:00</lastmod>
+    <lastmod>2023-02-10T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://ridingintraffic.github.io/posts/</loc>
+    <lastmod>2023-02-10T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://ridingintraffic.github.io/tags/</loc>
+    <lastmod>2023-02-10T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://ridingintraffic.github.io/tags/terraform/</loc>
+    <lastmod>2023-02-10T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://ridingintraffic.github.io/posts/2023-02-10-terraform-depends-without/</loc>
+    <lastmod>2023-02-10T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://ridingintraffic.github.io/</loc>
+    <lastmod>2023-02-10T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://ridingintraffic.github.io/categories/daily/</loc>
     <lastmod>2023-02-01T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://ridingintraffic.github.io/tags/life/</loc>
-    <lastmod>2023-02-01T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://ridingintraffic.github.io/posts/</loc>
-    <lastmod>2023-02-01T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://ridingintraffic.github.io/tags/</loc>
-    <lastmod>2023-02-01T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://ridingintraffic.github.io/</loc>
     <lastmod>2023-02-01T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://ridingintraffic.github.io/posts/2023-02-01-zmk-mac-power/</loc>
@@ -148,9 +157,6 @@
   </url><url>
     <loc>https://ridingintraffic.github.io/posts/2020-03-04-aws-encrypted-keys/</loc>
     <lastmod>2020-03-04T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://ridingintraffic.github.io/categories/blog/</loc>
-    <lastmod>2020-02-19T00:00:00-05:00</lastmod>
   </url><url>
     <loc>https://ridingintraffic.github.io/posts/2020-02-19-ec2-things/</loc>
     <lastmod>2020-02-19T00:00:00-05:00</lastmod>

@@ -9,7 +9,16 @@
       <link>https://ridingintraffic.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>terraform depends without depends_on</title>
+      <link>https://ridingintraffic.github.io/posts/2023-02-10-terraform-depends-without/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2023-02-10-terraform-depends-without/</guid>
+      <description>Terraform depends pattern without depends_on. Or how to use hcl to leverage its interal dependancy handling, to to hard things for you. We are going to use an example of an aws sqs queue, dlq, and queue policy all strung together. The issue that I ran in to was I wanted to create all of these using a single list of words as my seed values. Then the issue arose around using a for_each with a dynamic resource group when terraform would need group 1 to be appied before it knew what to setup for group 2.</description>
+    </item>
+    
     <item>
       <title>wireless zmk mac sleep waking bug</title>
       <link>https://ridingintraffic.github.io/posts/2023-02-01-zmk-mac-power/</link>
