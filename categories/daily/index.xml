@@ -9,7 +9,18 @@
       <link>https://ridingintraffic.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 09 Feb 2023 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>git single file</title>
+      <link>https://ridingintraffic.github.io/posts/2023-03-03-single-file-git/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2023-03-03-single-file-git/</guid>
+      <description>Sometimes you just need a single file from a git repo. I know that this is not the typical way we use git, but sometimes you just need to do a thing.
+So I want a single file, how do i do that?
+git archive --format=tar --remote=ssh://git@github.com:someuser/somefile.git{main} -- my_file_name |tar xf - and like that you can snag one file from one repo and get on with your life.</description>
+    </item>
+    
     <item>
       <title>macos text entering weirdness</title>
       <link>https://ridingintraffic.github.io/posts/2023-02-09-hold-for-accent/</link>
