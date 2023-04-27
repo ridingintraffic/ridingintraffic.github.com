@@ -9,7 +9,16 @@
       <link>https://ridingintraffic.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Apr 2023 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>python</title>
+      <link>https://ridingintraffic.github.io/tags/python/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>git</title>
       <link>https://ridingintraffic.github.io/tags/git/</link>
@@ -97,15 +106,6 @@
       <pubDate>Sun, 07 Aug 2022 00:00:00 -0500</pubDate>
       
       <guid>https://ridingintraffic.github.io/tags/scripting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>python</title>
-      <link>https://ridingintraffic.github.io/tags/python/</link>
-      <pubDate>Thu, 16 Sep 2021 00:00:00 -0500</pubDate>
-      
-      <guid>https://ridingintraffic.github.io/tags/python/</guid>
       <description></description>
     </item>
     

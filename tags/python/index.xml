@@ -9,7 +9,19 @@
       <link>https://ridingintraffic.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 16 Sep 2021 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Apr 2023 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>python nested dictionary access</title>
+      <link>https://ridingintraffic.github.io/posts/2023-04-27-python-nesting/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2023-04-27-python-nesting/</guid>
+      <description>Getting dictionaries back from a http endpoint usually results in a mess of objects. Dealing with this in python can be a challenge of ValueError exceptions. so what is the easiest way to handle this? a nested get. if the object looks like
+message={&amp;#34;detail&amp;#34;:{&amp;#34;operation&amp;#34;:&amp;#34;create&amp;#34;}} then you can access it like this
+message.get(&amp;#39;detail&amp;#39;, {}).get(&amp;#39;operation&amp;#39;) then if you access something that doesn&amp;rsquo;t exist you will get a nice None back
+&amp;gt;&amp;gt;&amp;gt; print(message.get(&amp;#39;detail&amp;#39;, {}).</description>
+    </item>
+    
     <item>
       <title>python repl</title>
       <link>https://ridingintraffic.github.io/posts/2021-09-16-repl/</link>
