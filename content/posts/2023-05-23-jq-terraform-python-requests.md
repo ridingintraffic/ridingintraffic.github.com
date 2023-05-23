@@ -6,7 +6,7 @@ categories: [ daily ]
 tags : [ python, jq]
 ---
 
-## base64 uaer auth in requests
+## base64 user auth in requests
 use the base64 for the first header and then reuse the bearer token that you get back.
 ``` 
     headers = {
