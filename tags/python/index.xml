@@ -9,7 +9,18 @@
       <link>https://ridingintraffic.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 27 Apr 2023 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 23 May 2023 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>python base64 requests jq and terraform</title>
+      <link>https://ridingintraffic.github.io/posts/2023-05-23-jq-terraform-python-requests/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2023-05-23-jq-terraform-python-requests/</guid>
+      <description>base64 uaer auth in requests use the base64 for the first header and then reuse the bearer token that you get back.
+headers = { &amp;#39;Content-Type&amp;#39;: &amp;#39;application/json&amp;#39;, &amp;#39;Accept&amp;#39;: &amp;#39;application/json&amp;#39; } base_url = &amp;#39;https://www.something.com&amp;#39; token_url = &amp;#34;/tauth/1.0/token/&amp;#34; url=base_url + token_url response = requests.post(url, headers=headers, auth=HTTPBasicAuth(USER, PASSWORD)) data = response.json() #reusing that bearer token from the repsonse headers = { &amp;#39;Authorization&amp;#39;: f&amp;#34;Bearer {data[&amp;#39;token&amp;#39;]}&amp;#34;, &amp;#39;Content-Type&amp;#39;: &amp;#39;application/json&amp;#39;, &amp;#39;Accept&amp;#39;: &amp;#39;application/json&amp;#39; } url=&amp;#34;/something/&amp;#34; response=requests.get( url, headers=headers) data = response.</description>
+    </item>
+    
     <item>
       <title>python nested dictionary access</title>
       <link>https://ridingintraffic.github.io/posts/2023-04-27-python-nesting/</link>
