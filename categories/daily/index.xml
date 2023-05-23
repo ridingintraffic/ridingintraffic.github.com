@@ -17,7 +17,7 @@
       <pubDate>Tue, 23 May 2023 00:00:00 -0500</pubDate>
       
       <guid>https://ridingintraffic.github.io/posts/2023-05-23-jq-terraform-python-requests/</guid>
-      <description>base64 uaer auth in requests use the base64 for the first header and then reuse the bearer token that you get back.
+      <description>base64 user auth in requests use the base64 for the first header and then reuse the bearer token that you get back.
 headers = { &amp;#39;Content-Type&amp;#39;: &amp;#39;application/json&amp;#39;, &amp;#39;Accept&amp;#39;: &amp;#39;application/json&amp;#39; } base_url = &amp;#39;https://www.something.com&amp;#39; token_url = &amp;#34;/tauth/1.0/token/&amp;#34; url=base_url + token_url response = requests.post(url, headers=headers, auth=HTTPBasicAuth(USER, PASSWORD)) data = response.json() #reusing that bearer token from the repsonse headers = { &amp;#39;Authorization&amp;#39;: f&amp;#34;Bearer {data[&amp;#39;token&amp;#39;]}&amp;#34;, &amp;#39;Content-Type&amp;#39;: &amp;#39;application/json&amp;#39;, &amp;#39;Accept&amp;#39;: &amp;#39;application/json&amp;#39; } url=&amp;#34;/something/&amp;#34; response=requests.get( url, headers=headers) data = response.</description>
     </item>
     
