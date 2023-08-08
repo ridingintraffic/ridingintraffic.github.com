@@ -86,6 +86,7 @@ params:
     - name: twitter
       url: "https://twitter.com/ridingintraffic"
 
+  googleAnalytics: "G-G0DC7DDX3B"
   analytics:
     google:
       SiteVerificationTag: "G-G0DC7DDX3B"
