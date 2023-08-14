@@ -5,8 +5,8 @@ draft: false
 categories: [ daily ]
 tags : [ blog]
 ---
-I am a leaf on the wind, watch how I soar.
-
+# I am a leaf on the wind, watch how I soar.
+- this is an old post from 2018 that I never added here but I thought it was still relevant today -
 Roll with the punches, go with the flow, make it up as you go… People always say that you should stay flexible with your plans. Don’t be afraid to change things.
 
 Never in my wildest dreams would I fully understand what it means to live a life of constant improvisation than when we had our first child.
