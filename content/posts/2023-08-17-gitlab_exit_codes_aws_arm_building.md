@@ -1,7 +1,7 @@
 ---
-title: 2023-08-17-gitlab_exit_codes_aws_arm_building
-date: 2023-08-17T16:30:27-05:00
-draft: true
+title: "gitlab exit codes aws arm building"
+date: 2023-08-17
+draft: false
 categories: [ daily ]
 tags : [ blog]
 ---
