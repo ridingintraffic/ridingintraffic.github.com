@@ -4,7 +4,7 @@ title: 'boost audio on video file'
 draft: false
 categories: [ daily ]
 tags : [ blog]
-
+---
 Was the audio too quiet on something that you recorded?  
 Are you lazy and you don't want to drop in the file to a timeline editor just so you can gain boost?  
 most laptops will have ffmpeg on them, and if your mac doesnt then a simple `brew install ffmpeg`  [https://formulae.brew.sh/formula/ffmpeg](https://formulae.brew.sh/formula/ffmpeg)
