@@ -13,6 +13,18 @@
     <language>en</language>
     <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>boost audio on video file</title>
+      <link>https://ridingintraffic.github.io/posts/2023-08-14-audio_boost/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2023-08-14-audio_boost/</guid>
+      <description>Was the audio too quiet on something that you recorded?
+Are you lazy and you don&amp;rsquo;t want to drop in the file to a timeline editor just so you can gain boost?
+most laptops will have ffmpeg on them, and if your mac doesnt then a simple brew install ffmpeg https://formulae.brew.sh/formula/ffmpeg
+ffmpeg -i &amp;#34;your_input_file.mp4&amp;#34; -vcodec copy -filter:a &amp;#34;volume=15dB&amp;#34; &amp;#34;your_output_file.mp4&amp;#34; there you have it short and simple now your video file is louder.</description>
+    </item>
+    
+    <item>
       <title>improvisation as a way of life</title>
       <link>https://ridingintraffic.github.io/posts/2023-08-13-improvisation/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
