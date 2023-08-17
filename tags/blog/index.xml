@@ -11,7 +11,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gitlab exit codes aws arm building</title>
+      <link>https://ridingintraffic.github.io/posts/2023-08-17-gitlab_exit_codes_aws_arm_building/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2023-08-17-gitlab_exit_codes_aws_arm_building/</guid>
+      <description>gitlab and exit codes Sometimes gitlab will have a command or a script that runs and it will not trap an exit code properly.
+This results in an error condition happening in a script, but the job in the pipeline to come back green.
+here is some meat and context around the issue as well. https://gitlab.com/gitlab-org/gitlab-runner/-/issues/25394 and then a bit more here https://gitlab.com/gitlab-org/gitlab/-/merge_requests/77601 and then of course it still isn&amp;rsquo;t fixed as of today&amp;rsquo;s writing https://gitlab.</description>
+    </item>
+    
     <item>
       <title>boost audio on video file</title>
       <link>https://ridingintraffic.github.io/posts/2023-08-14-audio_boost/</link>
