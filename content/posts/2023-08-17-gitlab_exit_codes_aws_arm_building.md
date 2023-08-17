@@ -1,5 +1,5 @@
 ---
-title: "2023-08-17-gitlab_exit_codes_aws_arm"
+title: "2023-08-17-gitlab_exit_codes_aws_arm_building"
 date: 2023-08-17T16:23:27-05:00
 draft: true
 categories: [ daily ]
