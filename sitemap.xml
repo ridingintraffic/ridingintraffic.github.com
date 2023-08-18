@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ridingintraffic.github.io/posts/2023-08-18-terraform_targeting/</loc>
-    <lastmod>2023-08-18T16:54:04-05:00</lastmod>
-  </url><url>
     <loc>https://ridingintraffic.github.io/tags/blog/</loc>
     <lastmod>2023-08-18T16:54:04-05:00</lastmod>
   </url><url>
@@ -18,6 +15,9 @@
     <lastmod>2023-08-18T16:54:04-05:00</lastmod>
   </url><url>
     <loc>https://ridingintraffic.github.io/tags/</loc>
+    <lastmod>2023-08-18T16:54:04-05:00</lastmod>
+  </url><url>
+    <loc>https://ridingintraffic.github.io/posts/2023-08-18-terraform_targeting/</loc>
     <lastmod>2023-08-18T16:54:04-05:00</lastmod>
   </url><url>
     <loc>https://ridingintraffic.github.io/</loc>
