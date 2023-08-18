@@ -1,5 +1,5 @@
 ---
-title: "2023-08-18-terraform_targeting"
+title: "terraform targeting"
 date: 2023-08-18T16:54:04-05:00
 draft: false
 categories: [ daily ]
