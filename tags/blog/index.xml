@@ -11,7 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Aug 2023 16:54:04 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Aug 2023 17:09:09 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023-08-24-minimodem</title>
+      <link>https://ridingintraffic.github.io/posts/2023-08-24-minimodem/</link>
+      <pubDate>Thu, 24 Aug 2023 17:09:09 -0500</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2023-08-24-minimodem/</guid>
+      <description>adeventures in old technology so there is an application called minimodem and it will transmit and receive data at various bps etc. why not see what it takes to move a 1.5mb file. cause lol
+base64 -i img.jpg|minimodem --tx 9600 --ascii -f 9600.wav ffmpeg -i 9600.wav 9600.mp3 ffmpeg -i 9600.mp3 9600.wav minimodem --rx 9600 -f 9600.wav|base64 -d &amp;gt;img_output9600.png at 9600 bps the file is 36 minutes long. and 120mb once in mp3 its 17mb.</description>
+    </item>
+    
     <item>
       <title>terraform targeting</title>
       <link>https://ridingintraffic.github.io/posts/2023-08-18-terraform_targeting/</link>
