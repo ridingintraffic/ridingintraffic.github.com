@@ -1,5 +1,5 @@
 ---
-title: "2023-09-15-tfstate-migration"
+title: "tfstate-migration"
 date: 2023-09-15T16:52:54-05:00
 draft: false
 categories: [ daily ]
