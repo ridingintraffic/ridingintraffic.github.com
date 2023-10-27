@@ -12,6 +12,7 @@ this is the easiest cleanest and cheapest way I have found to mount a split keyb
 ![keyboard_single_mount_detail](/images/keyboard_single_mount_detail.jpg)  
 
 the sticker that you apply to the keyboard case has adhesive and can be bought in a multi pack  
+these are great because they are pretty cheap and their height is less that your standard silicon bumpon, therefore you can have the bumpons for feet and they will sit nicely on any flat surface when not mounted  
 `Magnetic Wireless Charger Universal Metal Rings`   
 [amazon link Magnetic Wireless Charger Universal Metal Rings](https://www.amazon.com/gp/product/B08QTX8WMT/)  
 ![keyboard_mount_ring](/images/keyboard_mount_ring.jpg)  
