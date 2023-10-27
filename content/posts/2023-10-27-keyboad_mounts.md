@@ -21,7 +21,7 @@ the tripod mount is `ULANZI MK-01 Continuity Camera Mount for MacBook`
 ![keyboard_mount_tripod_mount](/images/keyboard_mount_tripod_mount.jpg)  
 
 I like to use desk mounts to hold everything in place at my standing desk.  
-`CAMVATE Universal C-Clamp for Desktop Mount`
+`CAMVATE Universal C-Clamp for Desktop Mount`  
 [amazon link CAMVATE Universal C-Clamp for Desktop Mount](https://www.amazon.com/gp/product/B018RLY6B2)
 ![keyboard_mount_flat_clamp](/images/keyboard_mount_flat_clamp.jpg)  
 
@@ -30,6 +30,6 @@ the tripods as well as clamps for things that are not flat are good too.   it is
 [amazon link CAMVATE Super Clamp Articulated Mini Ball Head](https://www.amazon.com/gp/product/B01N20RT82)  
 ![keyboard_mount_mini_ball_head](/images/keyboard_mount_mini_ball_head.jpg)  
 
-`SMALLRIG Super Camera Clamp Mount, Double Ball Head Adapter` 
+`SMALLRIG Super Camera Clamp Mount, Double Ball Head Adapter`  
 [amazon link SMALLRIG Super Camera Clamp Mount, Double Ball Head Adapter](https://www.amazon.com/gp/product/B00DJ5XH4O)  
 ![keyboard_mount_extended_head](/images/keyboard_mount_extended_head.jpg)  
