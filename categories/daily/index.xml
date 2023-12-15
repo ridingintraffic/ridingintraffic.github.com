@@ -11,7 +11,31 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Oct 2023 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Dec 2023 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>makefile list</title>
+      <link>https://ridingintraffic.github.io/posts/2023-12-15-make_list/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2023-12-15-make_list/</guid>
+      <description>make list working with make commands can be tiresome. Especially when those makefiles are really long and you do not know what commands are in them or you cannot remember what the commands are named.
+Here is a neat little trick to help with that.
+make list
+&amp;lt;Makefile&amp;gt; test: echo &amp;#34;testing&amp;#34; build: echo &amp;#34;building&amp;#34; deploy: echo &amp;#34;deploying&amp;#34; list: @grep &amp;#39;^[^#[:space:]].*:&amp;#39; Makefile | sort just add the extra list command to a makefile like this</description>
+    </item>
+    
+    <item>
+      <title>tracing redirects</title>
+      <link>https://ridingintraffic.github.io/posts/2023-12-15-follow-redirects/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2023-12-15-follow-redirects/</guid>
+      <description>Follow the redirect road Sometimes you want to have a curl command that traces the redirects and lets you see hops that it makes along the way
+long story short do this
+curl -sLD - http://test.chrislatta.org/myredirect.html -o /dev/null it will look like this
+$ curl -sLD - http://test.chrislatta.org/myredirect.html -o /dev/null HTTP/1.1 301 Moved Permanently Content-Type: text/html; charset=iso-8859-1 Content-Length: 244 Connection: keep-alive Location: http://test.chrislatta.org/hop1.html HTTP/1.1 301 Moved Permanently Content-Type: text/html; charset=iso-8859-1 Content-Length: 244 Connection: keep-alive Location: http://test.</description>
+    </item>
+    
     <item>
       <title>keyboard-mounts</title>
       <link>https://ridingintraffic.github.io/posts/2023-10-27-keyboad_mounts/</link>
