@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>blog on what did I learn today</title>
+    <title>Blog on what did I learn today</title>
     <link>https://ridingintraffic.github.io/tags/blog/</link>
-    <description>Recent content in blog on what did I learn today</description>
+    <description>Recent content in Blog on what did I learn today</description>
     <image>
       <title>what did I learn today</title>
       <url>https://ridingintraffic.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -107,6 +107,15 @@ ffmpeg -i &amp;#34;your_input_file.mp4&amp;#34; -vcodec copy -filter:a &amp;#34;
       
       <guid>https://ridingintraffic.github.io/posts/2023-08-13-improvisation/</guid>
       <description>I am a leaf on the wind, watch how I soar. this is an old post from 2018 that I never added here but I thought it was still relevant today - Roll with the punches, go with the flow, make it up as you go… People always say that you should stay flexible with your plans. Don’t be afraid to change things. Never in my wildest dreams would I fully understand what it means to live a life of constant improvisation than when we had our first child.</description>
+    </item>
+    
+    <item>
+      <title>writing again?</title>
+      <link>https://ridingintraffic.github.io/posts/2024-05-14-writing_again-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2024-05-14-writing_again-copy/</guid>
+      <description>I have been thinking that I should start writing again. Over the past few years I have gone back and forth on the writing and finding both the time and the inspiration to begin writing again. Why have I not been writing enough? Part of it is I have not had the creative energy, and I have not had the inspiration, or I have not been remembering to do it. Also, I&amp;rsquo;ve not been writing down things I&amp;rsquo;m learning, and it&amp;rsquo;s frustrating because I cannot remember what things are, and in order to solve that, I simply need to write things down and start writing again.</description>
     </item>
     
   </channel>

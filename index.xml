@@ -432,10 +432,10 @@ aws ssm describe-parameters | jq &amp;#39;.Parameters[]| &amp;#34;\(.Name) \(.Ty
     
     <item>
       <title>unique .gitconfig</title>
-      <link>https://ridingintraffic.github.io/posts/2020-04-30-unique-gitconfig/</link>
+      <link>https://ridingintraffic.github.io/posts/2020-04-30-unique--gitconfig/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 -0500</pubDate>
       
-      <guid>https://ridingintraffic.github.io/posts/2020-04-30-unique-gitconfig/</guid>
+      <guid>https://ridingintraffic.github.io/posts/2020-04-30-unique--gitconfig/</guid>
       <description>using multiple .gitconfig There is a neat feature in .gitconfig that will allow you to use uniueq gitconfig depending on the folder structure that you have.
 For example add this to your global gitconfig: This is assuming that ~/github has one org of repos, and ~/git has another, much lke personal and corporate git repos
 [includeIf &amp;#34;gitdir:~/git/&amp;#34;] path = ~/git/.gitconfig [includeIf &amp;#34;gitdir:~/github/&amp;#34;] path = ~/github/.gitconfig Then if you add this is the correpsonding location, the user name/email will be different in each folder structure.</description>
@@ -1106,10 +1106,10 @@ Honestly who doesn&amp;rsquo;t want to see all of the old files owned by root su
     
     <item>
       <title>2017-08-05, ssh things</title>
-      <link>https://ridingintraffic.github.io/posts/2017-08-04-ssh-things/</link>
+      <link>https://ridingintraffic.github.io/posts/2017-08-04-ssh--things/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ridingintraffic.github.io/posts/2017-08-04-ssh-things/</guid>
+      <guid>https://ridingintraffic.github.io/posts/2017-08-04-ssh--things/</guid>
       <description>SSH I use ssh all day all the time. But usually it is pretty standard login, shared keys and move into my tmux session. Other times its used a saved command to open a tunnel and doing some port forwards. Today and the last couple days I have tarted to fill in some of the bits and pieces to really configure ssh. That and I want to use ansible more to make my life easier, which of course leverages ssh quite a bit to get the job done.</description>
     </item>
     
@@ -1689,6 +1689,15 @@ paste like normal</description>
       <guid>https://ridingintraffic.github.io/posts/2018-12-11-netcat-portscanner/</guid>
       <description>netcat netcat can work like a portscanner. If it is the only tool that you have you make do. this is going to scan localhost across all of the ports
 nc -zv 127.0.0.1 1-65535 </description>
+    </item>
+    
+    <item>
+      <title>writing again?</title>
+      <link>https://ridingintraffic.github.io/posts/2024-05-14-writing_again-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2024-05-14-writing_again-copy/</guid>
+      <description>I have been thinking that I should start writing again. Over the past few years I have gone back and forth on the writing and finding both the time and the inspiration to begin writing again. Why have I not been writing enough? Part of it is I have not had the creative energy, and I have not had the inspiration, or I have not been remembering to do it. Also, I&amp;rsquo;ve not been writing down things I&amp;rsquo;m learning, and it&amp;rsquo;s frustrating because I cannot remember what things are, and in order to solve that, I simply need to write things down and start writing again.</description>
     </item>
     
   </channel>

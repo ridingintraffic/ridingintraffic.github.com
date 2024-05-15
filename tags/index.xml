@@ -13,7 +13,7 @@
     <language>en</language>
     <lastBuildDate>Fri, 15 Dec 2023 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>blog</title>
+      <title>Blog</title>
       <link>https://ridingintraffic.github.io/tags/blog/</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 -0500</pubDate>
       
@@ -22,7 +22,7 @@
     </item>
     
     <item>
-      <title>jq</title>
+      <title>Jq</title>
       <link>https://ridingintraffic.github.io/tags/jq/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 -0500</pubDate>
       
@@ -31,7 +31,7 @@
     </item>
     
     <item>
-      <title>python</title>
+      <title>Python</title>
       <link>https://ridingintraffic.github.io/tags/python/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 -0500</pubDate>
       
@@ -40,7 +40,7 @@
     </item>
     
     <item>
-      <title>git</title>
+      <title>Git</title>
       <link>https://ridingintraffic.github.io/tags/git/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 -0500</pubDate>
       
@@ -49,7 +49,7 @@
     </item>
     
     <item>
-      <title>terraform</title>
+      <title>Terraform</title>
       <link>https://ridingintraffic.github.io/tags/terraform/</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 -0500</pubDate>
       
@@ -58,7 +58,7 @@
     </item>
     
     <item>
-      <title>life</title>
+      <title>Life</title>
       <link>https://ridingintraffic.github.io/tags/life/</link>
       <pubDate>Thu, 09 Feb 2023 00:00:00 -0500</pubDate>
       
@@ -67,7 +67,7 @@
     </item>
     
     <item>
-      <title>qmk</title>
+      <title>Qmk</title>
       <link>https://ridingintraffic.github.io/tags/qmk/</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 -0500</pubDate>
       
@@ -76,7 +76,7 @@
     </item>
     
     <item>
-      <title>rp2040</title>
+      <title>Rp2040</title>
       <link>https://ridingintraffic.github.io/tags/rp2040/</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 -0500</pubDate>
       
@@ -85,7 +85,7 @@
     </item>
     
     <item>
-      <title>rpi</title>
+      <title>Rpi</title>
       <link>https://ridingintraffic.github.io/tags/rpi/</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 -0500</pubDate>
       
@@ -94,7 +94,7 @@
     </item>
     
     <item>
-      <title>devops</title>
+      <title>Devops</title>
       <link>https://ridingintraffic.github.io/tags/devops/</link>
       <pubDate>Tue, 06 Sep 2022 00:00:00 -0500</pubDate>
       
@@ -103,7 +103,7 @@
     </item>
     
     <item>
-      <title>tools</title>
+      <title>Tools</title>
       <link>https://ridingintraffic.github.io/tags/tools/</link>
       <pubDate>Tue, 06 Sep 2022 00:00:00 -0500</pubDate>
       
@@ -112,7 +112,7 @@
     </item>
     
     <item>
-      <title>automation</title>
+      <title>Automation</title>
       <link>https://ridingintraffic.github.io/tags/automation/</link>
       <pubDate>Sun, 07 Aug 2022 00:00:00 -0500</pubDate>
       
@@ -121,7 +121,7 @@
     </item>
     
     <item>
-      <title>scripting</title>
+      <title>Scripting</title>
       <link>https://ridingintraffic.github.io/tags/scripting/</link>
       <pubDate>Sun, 07 Aug 2022 00:00:00 -0500</pubDate>
       
@@ -130,7 +130,7 @@
     </item>
     
     <item>
-      <title>clojure</title>
+      <title>Clojure</title>
       <link>https://ridingintraffic.github.io/tags/clojure/</link>
       <pubDate>Thu, 24 Sep 2020 00:00:00 -0500</pubDate>
       
@@ -139,7 +139,7 @@
     </item>
     
     <item>
-      <title>aws</title>
+      <title>Aws</title>
       <link>https://ridingintraffic.github.io/tags/aws/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 -0500</pubDate>
       
@@ -148,7 +148,7 @@
     </item>
     
     <item>
-      <title>bfg</title>
+      <title>Bfg</title>
       <link>https://ridingintraffic.github.io/tags/bfg/</link>
       <pubDate>Sat, 28 Mar 2020 00:00:00 -0500</pubDate>
       
@@ -157,7 +157,7 @@
     </item>
     
     <item>
-      <title>hashcat</title>
+      <title>Hashcat</title>
       <link>https://ridingintraffic.github.io/tags/hashcat/</link>
       <pubDate>Thu, 15 Nov 2018 08:08:50 -0400</pubDate>
       
@@ -166,7 +166,7 @@
     </item>
     
     <item>
-      <title>keyboards</title>
+      <title>Keyboards</title>
       <link>https://ridingintraffic.github.io/tags/keyboards/</link>
       <pubDate>Tue, 13 Nov 2018 08:08:50 -0400</pubDate>
       
@@ -175,7 +175,7 @@
     </item>
     
     <item>
-      <title>confluence</title>
+      <title>Confluence</title>
       <link>https://ridingintraffic.github.io/tags/confluence/</link>
       <pubDate>Mon, 06 Mar 2017 08:08:50 -0400</pubDate>
       
@@ -184,7 +184,7 @@
     </item>
     
     <item>
-      <title>markdown</title>
+      <title>Markdown</title>
       <link>https://ridingintraffic.github.io/tags/markdown/</link>
       <pubDate>Mon, 06 Mar 2017 08:08:50 -0400</pubDate>
       
@@ -193,7 +193,7 @@
     </item>
     
     <item>
-      <title>splunk</title>
+      <title>Splunk</title>
       <link>https://ridingintraffic.github.io/tags/splunk/</link>
       <pubDate>Mon, 06 Mar 2017 08:08:50 -0400</pubDate>
       
@@ -202,7 +202,7 @@
     </item>
     
     <item>
-      <title>coffee</title>
+      <title>Coffee</title>
       <link>https://ridingintraffic.github.io/tags/coffee/</link>
       <pubDate>Fri, 03 Mar 2017 08:08:50 -0400</pubDate>
       
@@ -211,7 +211,7 @@
     </item>
     
     <item>
-      <title>roasting</title>
+      <title>Roasting</title>
       <link>https://ridingintraffic.github.io/tags/roasting/</link>
       <pubDate>Fri, 03 Mar 2017 08:08:50 -0400</pubDate>
       
@@ -220,7 +220,7 @@
     </item>
     
     <item>
-      <title>bash</title>
+      <title>Bash</title>
       <link>https://ridingintraffic.github.io/tags/bash/</link>
       <pubDate>Thu, 02 Mar 2017 08:08:50 -0400</pubDate>
       
@@ -229,7 +229,7 @@
     </item>
     
     <item>
-      <title>docker</title>
+      <title>Docker</title>
       <link>https://ridingintraffic.github.io/tags/docker/</link>
       <pubDate>Thu, 02 Mar 2017 08:08:50 -0400</pubDate>
       
@@ -238,7 +238,7 @@
     </item>
     
     <item>
-      <title>ssh</title>
+      <title>Ssh</title>
       <link>https://ridingintraffic.github.io/tags/ssh/</link>
       <pubDate>Thu, 02 Mar 2017 08:08:50 -0400</pubDate>
       
@@ -247,7 +247,7 @@
     </item>
     
     <item>
-      <title>akamai</title>
+      <title>Akamai</title>
       <link>https://ridingintraffic.github.io/tags/akamai/</link>
       <pubDate>Tue, 28 Feb 2017 08:08:50 -0400</pubDate>
       
@@ -265,7 +265,7 @@
     </item>
     
     <item>
-      <title>javascript</title>
+      <title>Javascript</title>
       <link>https://ridingintraffic.github.io/tags/javascript/</link>
       <pubDate>Tue, 28 Feb 2017 08:08:50 -0400</pubDate>
       
@@ -274,7 +274,7 @@
     </item>
     
     <item>
-      <title>js</title>
+      <title>Js</title>
       <link>https://ridingintraffic.github.io/tags/js/</link>
       <pubDate>Tue, 28 Feb 2017 08:08:50 -0400</pubDate>
       
@@ -283,7 +283,7 @@
     </item>
     
     <item>
-      <title>karma</title>
+      <title>Karma</title>
       <link>https://ridingintraffic.github.io/tags/karma/</link>
       <pubDate>Tue, 28 Feb 2017 08:08:50 -0400</pubDate>
       
@@ -292,7 +292,7 @@
     </item>
     
     <item>
-      <title>npm</title>
+      <title>Npm</title>
       <link>https://ridingintraffic.github.io/tags/npm/</link>
       <pubDate>Tue, 28 Feb 2017 08:08:50 -0400</pubDate>
       
@@ -301,7 +301,7 @@
     </item>
     
     <item>
-      <title>openvpn</title>
+      <title>Openvpn</title>
       <link>https://ridingintraffic.github.io/tags/openvpn/</link>
       <pubDate>Tue, 28 Feb 2017 08:08:50 -0400</pubDate>
       
@@ -310,7 +310,7 @@
     </item>
     
     <item>
-      <title>protractor</title>
+      <title>Protractor</title>
       <link>https://ridingintraffic.github.io/tags/protractor/</link>
       <pubDate>Tue, 28 Feb 2017 08:08:50 -0400</pubDate>
       
@@ -319,7 +319,7 @@
     </item>
     
     <item>
-      <title>proxpn</title>
+      <title>Proxpn</title>
       <link>https://ridingintraffic.github.io/tags/proxpn/</link>
       <pubDate>Tue, 28 Feb 2017 08:08:50 -0400</pubDate>
       
@@ -328,7 +328,7 @@
     </item>
     
     <item>
-      <title>nginx</title>
+      <title>Nginx</title>
       <link>https://ridingintraffic.github.io/tags/nginx/</link>
       <pubDate>Mon, 27 Feb 2017 08:08:50 -0400</pubDate>
       
@@ -337,7 +337,7 @@
     </item>
     
     <item>
-      <title>analytics</title>
+      <title>Analytics</title>
       <link>https://ridingintraffic.github.io/tags/analytics/</link>
       <pubDate>Sun, 26 Feb 2017 08:08:50 -0400</pubDate>
       
@@ -346,7 +346,7 @@
     </item>
     
     <item>
-      <title>dod</title>
+      <title>Dod</title>
       <link>https://ridingintraffic.github.io/tags/dod/</link>
       <pubDate>Sun, 26 Feb 2017 08:08:50 -0400</pubDate>
       
@@ -355,7 +355,7 @@
     </item>
     
     <item>
-      <title>fitbit</title>
+      <title>Fitbit</title>
       <link>https://ridingintraffic.github.io/tags/fitbit/</link>
       <pubDate>Sun, 26 Feb 2017 08:08:50 -0400</pubDate>
       
@@ -364,7 +364,7 @@
     </item>
     
     <item>
-      <title>fitness</title>
+      <title>Fitness</title>
       <link>https://ridingintraffic.github.io/tags/fitness/</link>
       <pubDate>Sun, 26 Feb 2017 08:08:50 -0400</pubDate>
       
@@ -373,7 +373,7 @@
     </item>
     
     <item>
-      <title>github</title>
+      <title>Github</title>
       <link>https://ridingintraffic.github.io/tags/github/</link>
       <pubDate>Sun, 26 Feb 2017 08:08:50 -0400</pubDate>
       
@@ -382,7 +382,7 @@
     </item>
     
     <item>
-      <title>google</title>
+      <title>Google</title>
       <link>https://ridingintraffic.github.io/tags/google/</link>
       <pubDate>Sun, 26 Feb 2017 08:08:50 -0400</pubDate>
       
@@ -391,7 +391,7 @@
     </item>
     
     <item>
-      <title>open source</title>
+      <title>Open Source</title>
       <link>https://ridingintraffic.github.io/tags/open-source/</link>
       <pubDate>Sun, 26 Feb 2017 08:08:50 -0400</pubDate>
       
@@ -400,7 +400,7 @@
     </item>
     
     <item>
-      <title>jekyll</title>
+      <title>Jekyll</title>
       <link>https://ridingintraffic.github.io/tags/jekyll/</link>
       <pubDate>Sat, 25 Feb 2017 08:08:50 -0400</pubDate>
       
@@ -409,7 +409,7 @@
     </item>
     
     <item>
-      <title>mac</title>
+      <title>Mac</title>
       <link>https://ridingintraffic.github.io/tags/mac/</link>
       <pubDate>Sat, 25 Feb 2017 08:08:50 -0400</pubDate>
       
@@ -418,7 +418,7 @@
     </item>
     
     <item>
-      <title>raspberrypi</title>
+      <title>Raspberrypi</title>
       <link>https://ridingintraffic.github.io/tags/raspberrypi/</link>
       <pubDate>Sat, 25 Feb 2017 08:08:50 -0400</pubDate>
       
@@ -427,7 +427,7 @@
     </item>
     
     <item>
-      <title>ruby</title>
+      <title>Ruby</title>
       <link>https://ridingintraffic.github.io/tags/ruby/</link>
       <pubDate>Sat, 25 Feb 2017 08:08:50 -0400</pubDate>
       
@@ -436,7 +436,7 @@
     </item>
     
     <item>
-      <title>food</title>
+      <title>Food</title>
       <link>https://ridingintraffic.github.io/tags/food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -445,7 +445,7 @@
     </item>
     
     <item>
-      <title>fstab</title>
+      <title>Fstab</title>
       <link>https://ridingintraffic.github.io/tags/fstab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -454,7 +454,7 @@
     </item>
     
     <item>
-      <title>hugo</title>
+      <title>Hugo</title>
       <link>https://ridingintraffic.github.io/tags/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -463,7 +463,7 @@
     </item>
     
     <item>
-      <title>intro</title>
+      <title>Intro</title>
       <link>https://ridingintraffic.github.io/tags/intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -472,7 +472,7 @@
     </item>
     
     <item>
-      <title>pi</title>
+      <title>Pi</title>
       <link>https://ridingintraffic.github.io/tags/pi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -481,7 +481,7 @@
     </item>
     
     <item>
-      <title>rasberrypi</title>
+      <title>Rasberrypi</title>
       <link>https://ridingintraffic.github.io/tags/rasberrypi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -490,7 +490,7 @@
     </item>
     
     <item>
-      <title>vnc</title>
+      <title>Vnc</title>
       <link>https://ridingintraffic.github.io/tags/vnc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -499,7 +499,7 @@
     </item>
     
     <item>
-      <title>vpn</title>
+      <title>Vpn</title>
       <link>https://ridingintraffic.github.io/tags/vpn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
