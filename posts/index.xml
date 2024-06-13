@@ -11,7 +11,46 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Dec 2023 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Jun 2024 00:00:00 -0500</lastBuildDate><atom:link href="https://ridingintraffic.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>openai whisper</title>
+      <link>https://ridingintraffic.github.io/posts/2024-06-13-audio_transcription/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 -0500</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2024-06-13-audio_transcription/</guid>
+      <description>Lets use some ai magic to transcribe audio in the command line. simple enough with whisper https://github.com/openai/whisper
+whisper audiofile.m4a --language English --model medium and then there is the python version which is oktoo
+import whisper model = whisper.load_model(&amp;#34;base&amp;#34;) result = model.transcribe(&amp;#34;audio.mp3&amp;#34;) print(result[&amp;#34;text&amp;#34;]) I have had pretty good results with it but i think that i like the ui better for a simple macos app called whisper transcription. there is a paid tier but the free one is good enough for me.</description>
+    </item>
+    
+    <item>
+      <title>ecr and aws orgs</title>
+      <link>https://ridingintraffic.github.io/posts/2024-05-14-aws_orgs_ecr/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 -0500</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2024-05-14-aws_orgs_ecr/</guid>
+      <description>We have an AWS ORG, we want to share some things between accounts in the ORG. Namely ecr and code artifact. In order to get an ECR repository to share, be shared across multiple AWS accounts, you have many, many, many different ways that you can do this. You can do it probably 12 different ways, and maybe even more than that. But I am going to do it with AWS orgs and with kind of a permissive structure in that anyone that is a part of the org will get access to the ECR.</description>
+    </item>
+    
+    <item>
+      <title>writing again?</title>
+      <link>https://ridingintraffic.github.io/posts/2024-05-14-writing_again-copy/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 -0500</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2024-05-14-writing_again-copy/</guid>
+      <description>I have been thinking that I should start writing again. Over the past few years I have gone back and forth on the writing and finding both the time and the inspiration to begin writing again. Why have I not been writing enough? Part of it is I have not had the creative energy, and I have not had the inspiration, or I have not been remembering to do it. Also, I&amp;rsquo;ve not been writing down things I&amp;rsquo;m learning, and it&amp;rsquo;s frustrating because I cannot remember what things are, and in order to solve that, I simply need to write things down and start writing again.</description>
+    </item>
+    
+    <item>
+      <title>zmk dongles</title>
+      <link>https://ridingintraffic.github.io/posts/2024-05-14-zmk_dongles/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 -0500</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2024-05-14-zmk_dongles/</guid>
+      <description>I am trying to create a dongle setup to use with my wireless skeltyls. I have not been using them as much as i would like because they are a giant pita to deal with when they come out of sleep, and when they are reconnecting. so i thought that i would like to try and do a dongle mode with them and see how it goes.
+Working with ZMK dongles mode in ZMK I have a ZMK keyboard.</description>
+    </item>
+    
     <item>
       <title>makefile list</title>
       <link>https://ridingintraffic.github.io/posts/2023-12-15-make_list/</link>
@@ -1563,15 +1602,6 @@ Live your life long enough in a terminal and tweaks and customizations happen. L
     </item>
     
     <item>
-      <title>ecr and aws orgs</title>
-      <link>https://ridingintraffic.github.io/posts/2024-05-14-aws_orgs_ecr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ridingintraffic.github.io/posts/2024-05-14-aws_orgs_ecr/</guid>
-      <description>We have an AWS ORG, we want to share some things between accounts in the ORG. Namely ecr and code artifact. In order to get an ECR repository to share, be shared across multiple AWS accounts, you have many, many, many different ways that you can do this. You can do it probably 12 different ways, and maybe even more than that. But I am going to do it with AWS orgs and with kind of a permissive structure in that anyone that is a part of the org will get access to the ECR.</description>
-    </item>
-    
-    <item>
       <title>Git</title>
       <link>https://ridingintraffic.github.io/posts/2016-02-19-git/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1612,17 +1642,6 @@ Use curl to get the JSON response for the latest release Use grep to find the li
       
       <guid>https://ridingintraffic.github.io/posts/2019-01-02-git-secrets/</guid>
       <description>git-secrets I came across this handy piece of software today, called git-secrets. It is made by awslabs and it acts as a git-hook that will stop you form doing stupid things. https://github.com/awslabs/git-secrets</description>
-    </item>
-    
-    <item>
-      <title>openai whisper</title>
-      <link>https://ridingintraffic.github.io/posts/2024-06-13-audio_transcription/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ridingintraffic.github.io/posts/2024-06-13-audio_transcription/</guid>
-      <description>Lets use some ai magic to transcribe audio in the command line. simple enough with whisper https://github.com/openai/whisper
-whisper audiofile.m4a --language English --model medium and then there is the python version which is oktoo
-import whisper model = whisper.load_model(&amp;#34;base&amp;#34;) result = model.transcribe(&amp;#34;audio.mp3&amp;#34;) print(result[&amp;#34;text&amp;#34;]) I have had pretty good results with it but i think that i like the ui better for a simple macos app called whisper transcription. there is a paid tier but the free one is good enough for me.</description>
     </item>
     
     <item>
@@ -1708,25 +1727,6 @@ paste like normal</description>
       <guid>https://ridingintraffic.github.io/posts/2018-12-11-netcat-portscanner/</guid>
       <description>netcat netcat can work like a portscanner. If it is the only tool that you have you make do. this is going to scan localhost across all of the ports
 nc -zv 127.0.0.1 1-65535 </description>
-    </item>
-    
-    <item>
-      <title>writing again?</title>
-      <link>https://ridingintraffic.github.io/posts/2024-05-14-writing_again-copy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ridingintraffic.github.io/posts/2024-05-14-writing_again-copy/</guid>
-      <description>I have been thinking that I should start writing again. Over the past few years I have gone back and forth on the writing and finding both the time and the inspiration to begin writing again. Why have I not been writing enough? Part of it is I have not had the creative energy, and I have not had the inspiration, or I have not been remembering to do it. Also, I&amp;rsquo;ve not been writing down things I&amp;rsquo;m learning, and it&amp;rsquo;s frustrating because I cannot remember what things are, and in order to solve that, I simply need to write things down and start writing again.</description>
-    </item>
-    
-    <item>
-      <title>zmk dongles</title>
-      <link>https://ridingintraffic.github.io/posts/2024-05-14-zmk_dongles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ridingintraffic.github.io/posts/2024-05-14-zmk_dongles/</guid>
-      <description>I am trying to create a dongle setup to use with my wireless skeltyls. I have not been using them as much as i would like because they are a giant pita to deal with when they come out of sleep, and when they are reconnecting. so i thought that i would like to try and do a dongle mode with them and see how it goes.
-Working with ZMK dongles mode in ZMK I have a ZMK keyboard.</description>
     </item>
     
   </channel>
