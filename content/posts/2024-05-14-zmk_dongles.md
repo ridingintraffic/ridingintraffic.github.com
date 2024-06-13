@@ -1,9 +1,9 @@
 ---
 title: "zmk dongles"
 date: 2024-05-14-T00:00:00-05:00
-draft: true
+draft: false
 categories: [ daily ]
-tags : [ blog ]
+tags : [ blog, zmk, keyboards ]
 ---
 I am trying to create a dongle setup to use with my wireless skeltyls.   I have not been using them as much as i would like because they are a giant pita to deal with when they come out of sleep, and when they are reconnecting.   so i thought that i would like to try and do a dongle mode with them and see how it goes.
 
