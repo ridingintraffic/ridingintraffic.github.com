@@ -1,6 +1,6 @@
 ---
 title: "openai whisper"
-date: 2024-06-13-T00:00:00-05:00
+date: 2024-06-13T00:00:00-05:00
 draft: false
 categories: [ daily ]
 tags : [ blog, ai, llm ]
