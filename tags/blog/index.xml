@@ -121,6 +121,15 @@ instant pot dragon head instant pots are pretty rad and there is this little thi
     </item>
     
     <item>
+      <title>ecr and aws orgs</title>
+      <link>https://ridingintraffic.github.io/posts/2024-05-14-aws_orgs_ecr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2024-05-14-aws_orgs_ecr/</guid>
+      <description>We have an AWS ORG, we want to share some things between accounts in the ORG. Namely ecr and code artifact. In order to get an ECR repository to share, be shared across multiple AWS accounts, you have many, many, many different ways that you can do this. You can do it probably 12 different ways, and maybe even more than that. But I am going to do it with AWS orgs and with kind of a permissive structure in that anyone that is a part of the org will get access to the ECR.</description>
+    </item>
+    
+    <item>
       <title>writing again?</title>
       <link>https://ridingintraffic.github.io/posts/2024-05-14-writing_again-copy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
