@@ -1,7 +1,7 @@
 ---
 title: "ecr and aws orgs"
 date: 2024-05-14-T00:00:00-05:00
-draft: true
+draft: false
 categories: [ daily ]
 tags : [ blog ]
 ---
