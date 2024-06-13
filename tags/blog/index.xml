@@ -110,6 +110,17 @@ ffmpeg -i &amp;#34;your_input_file.mp4&amp;#34; -vcodec copy -filter:a &amp;#34;
     </item>
     
     <item>
+      <title>docker-powershell</title>
+      <link>https://ridingintraffic.github.io/posts/2018-11-12-docker_powershell/</link>
+      <pubDate>Mon, 12 Nov 2018 08:08:50 -0400</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2018-11-12-docker_powershell/</guid>
+      <description>docker powershell To prove a point i went out and foudn that there is a microsoft supported docker image for powershell. dockerhub - microsoft
+this means that running a mac, you can run docker that runs linux and then will let you run powershell.. You must go deeper&amp;hellip; ha
+instant pot dragon head instant pots are pretty rad and there is this little thingverse that will let you have a dragon head for your instant pot, you just need to make sure that you print it with pla so that it does not instamelt when you are releasing the steam dragon head</description>
+    </item>
+    
+    <item>
       <title>writing again?</title>
       <link>https://ridingintraffic.github.io/posts/2024-05-14-writing_again-copy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

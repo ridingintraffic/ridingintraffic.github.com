@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Systemd on what did I learn today</title>
+    <link>https://ridingintraffic.github.io/tags/systemd/</link>
+    <description>Recent content in Systemd on what did I learn today</description>
+    <image>
+      <title>what did I learn today</title>
+      <url>https://ridingintraffic.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ridingintraffic.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Nov 2018 08:08:50 -0400</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/systemd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Systemd-restarts-splunk-py</title>
+      <link>https://ridingintraffic.github.io/posts/2018-11-09-systemd-restart-fail/</link>
+      <pubDate>Fri, 09 Nov 2018 08:08:50 -0400</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2018-11-09-systemd-restart-fail/</guid>
+      <description>Systemd restarting A while ago I had a service that would need to be restarted after it had a cool down of about 2 hours&amp;hellip; I had a stanza that stated
+Restart=always RestartSec=7200 which was cool because it would just autorestart when it died. At the time the restart would work just fine after the cooldown. The catch that I ran in to was because of that timer, if I logged in and tried to start it when it was in a failed state, the service would hang.</description>
+    </item>
+    
+    <item>
+      <title>systemd-restarts-friday-links</title>
+      <link>https://ridingintraffic.github.io/posts/2018-11-02-systemd-restarts/</link>
+      <pubDate>Fri, 02 Nov 2018 08:08:50 -0400</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2018-11-02-systemd-restarts/</guid>
+      <description>Systemd restart policy sometimes services die. sometimes there is not a better option because of the situatuion that you are in, and you just need to wait it out and then restart the service&amp;hellip; I know it isn&amp;rsquo;t ideal and that there should be better ways around having to do this but hey ¯_(ツ)_/¯
+[Service] Type=simple Restart=always RestartSec=3 ExecStart=/path/to/script In my case I needed to wait it out and restart the service 2 hours after it died.</description>
+    </item>
+    
+  </channel>
+</rss>

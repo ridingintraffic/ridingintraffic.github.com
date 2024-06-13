@@ -11,7 +11,27 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Mar 2017 08:08:50 -0400</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/splunk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Nov 2018 08:08:50 -0400</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/splunk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Systemd-restarts-splunk-py</title>
+      <link>https://ridingintraffic.github.io/posts/2018-11-09-systemd-restart-fail/</link>
+      <pubDate>Fri, 09 Nov 2018 08:08:50 -0400</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2018-11-09-systemd-restart-fail/</guid>
+      <description>Systemd restarting A while ago I had a service that would need to be restarted after it had a cool down of about 2 hours&amp;hellip; I had a stanza that stated
+Restart=always RestartSec=7200 which was cool because it would just autorestart when it died. At the time the restart would work just fine after the cooldown. The catch that I ran in to was because of that timer, if I logged in and tried to start it when it was in a failed state, the service would hang.</description>
+    </item>
+    
+    <item>
+      <title>splunk-hec-python</title>
+      <link>https://ridingintraffic.github.io/posts/2018-10-25-splunk-hec-python/</link>
+      <pubDate>Thu, 25 Oct 2018 08:08:50 -0400</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2018-10-25-splunk-hec-python/</guid>
+      <description>Splunk HTTP collector python script Hey the http collector is awesome so let use it in python to send things to stuff&amp;hellip; This is going to just take a dictionary as event data and then pass that to the http collector using only the request library . You will need to have a collector enabled for splunk and a token generated.
+#!/usr/bin/env python import time import requests import urllib3 ##turns off the warning that is generated below because using self signed ssl cert urllib3.</description>
+    </item>
+    
     <item>
       <title>2017-03-06 git, splunk, lastpass-cli</title>
       <link>https://ridingintraffic.github.io/posts/2017-03-06-something-witty/</link>

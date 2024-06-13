@@ -598,7 +598,7 @@ $ dd if=/dev/urandom of=test bs=1M count=100 $ cryptsetup luksFormat test #use p
     </item>
     
     <item>
-      <title>2018-11-12 docker-powershell</title>
+      <title>docker-powershell</title>
       <link>https://ridingintraffic.github.io/posts/2018-11-12-docker_powershell/</link>
       <pubDate>Mon, 12 Nov 2018 08:08:50 -0400</pubDate>
       
@@ -609,7 +609,7 @@ instant pot dragon head instant pots are pretty rad and there is this little thi
     </item>
     
     <item>
-      <title>2018-11-09 Systemd-restarts-splunk-py</title>
+      <title>Systemd-restarts-splunk-py</title>
       <link>https://ridingintraffic.github.io/posts/2018-11-09-systemd-restart-fail/</link>
       <pubDate>Fri, 09 Nov 2018 08:08:50 -0400</pubDate>
       
@@ -619,7 +619,7 @@ Restart=always RestartSec=7200 which was cool because it would just autorestart 
     </item>
     
     <item>
-      <title>2018-11-06 Outlook-reminders</title>
+      <title>Outlook-reminders</title>
       <link>https://ridingintraffic.github.io/posts/2018-11-06-outlook-reminders/</link>
       <pubDate>Tue, 06 Nov 2018 08:08:50 -0400</pubDate>
       
@@ -629,17 +629,7 @@ tick stack and grafana i like the tick stack and it can be useful for a number o
     </item>
     
     <item>
-      <title>2018-11-02 systemd-restarts-friday-links</title>
-      <link>https://ridingintraffic.github.io/posts/2018-11-02-systemd-restarts/</link>
-      <pubDate>Fri, 02 Nov 2018 08:08:50 -0400</pubDate>
-      
-      <guid>https://ridingintraffic.github.io/posts/2018-11-02-systemd-restarts/</guid>
-      <description>Systemd restart policy sometimes services die. sometimes there is not a better option because of the situatuion that you are in, and you just need to wait it out and then restart the service&amp;hellip; I know it isn&amp;rsquo;t ideal and that there should be better ways around having to do this but hey ¯_(ツ)_/¯
-[Service] Type=simple Restart=always RestartSec=3 ExecStart=/path/to/script In my case I needed to wait it out and restart the service 2 hours after it died.</description>
-    </item>
-    
-    <item>
-      <title>2018-11-05 bash-ctrl&#43;r</title>
+      <title>bash-ctrl&#43;r</title>
       <link>https://ridingintraffic.github.io/posts/2018-11-05-bash-ctrl-r/</link>
       <pubDate>Fri, 02 Nov 2018 08:08:50 -0400</pubDate>
       
@@ -649,7 +639,17 @@ Ctrl+R: Recall the last command matching the characters you provide. Press this 
     </item>
     
     <item>
-      <title>2018-10-25 splunk-hec-python</title>
+      <title>systemd-restarts-friday-links</title>
+      <link>https://ridingintraffic.github.io/posts/2018-11-02-systemd-restarts/</link>
+      <pubDate>Fri, 02 Nov 2018 08:08:50 -0400</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2018-11-02-systemd-restarts/</guid>
+      <description>Systemd restart policy sometimes services die. sometimes there is not a better option because of the situatuion that you are in, and you just need to wait it out and then restart the service&amp;hellip; I know it isn&amp;rsquo;t ideal and that there should be better ways around having to do this but hey ¯_(ツ)_/¯
+[Service] Type=simple Restart=always RestartSec=3 ExecStart=/path/to/script In my case I needed to wait it out and restart the service 2 hours after it died.</description>
+    </item>
+    
+    <item>
+      <title>splunk-hec-python</title>
       <link>https://ridingintraffic.github.io/posts/2018-10-25-splunk-hec-python/</link>
       <pubDate>Thu, 25 Oct 2018 08:08:50 -0400</pubDate>
       

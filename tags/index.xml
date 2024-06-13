@@ -175,6 +175,60 @@
     </item>
     
     <item>
+      <title>Docker</title>
+      <link>https://ridingintraffic.github.io/tags/docker/</link>
+      <pubDate>Mon, 12 Nov 2018 08:08:50 -0400</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Splunk</title>
+      <link>https://ridingintraffic.github.io/tags/splunk/</link>
+      <pubDate>Fri, 09 Nov 2018 08:08:50 -0400</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/tags/splunk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systemd</title>
+      <link>https://ridingintraffic.github.io/tags/systemd/</link>
+      <pubDate>Fri, 09 Nov 2018 08:08:50 -0400</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/tags/systemd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outlook</title>
+      <link>https://ridingintraffic.github.io/tags/outlook/</link>
+      <pubDate>Tue, 06 Nov 2018 08:08:50 -0400</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/tags/outlook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Telegraf</title>
+      <link>https://ridingintraffic.github.io/tags/telegraf/</link>
+      <pubDate>Tue, 06 Nov 2018 08:08:50 -0400</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/tags/telegraf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bash</title>
+      <link>https://ridingintraffic.github.io/tags/bash/</link>
+      <pubDate>Fri, 02 Nov 2018 08:08:50 -0400</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/tags/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Confluence</title>
       <link>https://ridingintraffic.github.io/tags/confluence/</link>
       <pubDate>Mon, 06 Mar 2017 08:08:50 -0400</pubDate>
@@ -193,15 +247,6 @@
     </item>
     
     <item>
-      <title>Splunk</title>
-      <link>https://ridingintraffic.github.io/tags/splunk/</link>
-      <pubDate>Mon, 06 Mar 2017 08:08:50 -0400</pubDate>
-      
-      <guid>https://ridingintraffic.github.io/tags/splunk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Coffee</title>
       <link>https://ridingintraffic.github.io/tags/coffee/</link>
       <pubDate>Fri, 03 Mar 2017 08:08:50 -0400</pubDate>
@@ -216,24 +261,6 @@
       <pubDate>Fri, 03 Mar 2017 08:08:50 -0400</pubDate>
       
       <guid>https://ridingintraffic.github.io/tags/roasting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bash</title>
-      <link>https://ridingintraffic.github.io/tags/bash/</link>
-      <pubDate>Thu, 02 Mar 2017 08:08:50 -0400</pubDate>
-      
-      <guid>https://ridingintraffic.github.io/tags/bash/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Docker</title>
-      <link>https://ridingintraffic.github.io/tags/docker/</link>
-      <pubDate>Thu, 02 Mar 2017 08:08:50 -0400</pubDate>
-      
-      <guid>https://ridingintraffic.github.io/tags/docker/</guid>
       <description></description>
     </item>
     

@@ -11,7 +11,37 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Mar 2017 08:08:50 -0400</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Nov 2018 08:08:50 -0400</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bash-ctrl&#43;r</title>
+      <link>https://ridingintraffic.github.io/posts/2018-11-05-bash-ctrl-r/</link>
+      <pubDate>Fri, 02 Nov 2018 08:08:50 -0400</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2018-11-05-bash-ctrl-r/</guid>
+      <description>Bash ctrl+r Bash has a special “recall” mode you can use to search for commands you’ve previously run:
+Ctrl+R: Recall the last command matching the characters you provide. Press this shortcut and start typing to search your bash history for a command. Ctrl+O: Run a command you found with Ctrl+R. Ctrl+G: Leave history searching mode without running a command. keyboard-shortcuts-for-bash-command-shell</description>
+    </item>
+    
+    <item>
+      <title>systemd-restarts-friday-links</title>
+      <link>https://ridingintraffic.github.io/posts/2018-11-02-systemd-restarts/</link>
+      <pubDate>Fri, 02 Nov 2018 08:08:50 -0400</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2018-11-02-systemd-restarts/</guid>
+      <description>Systemd restart policy sometimes services die. sometimes there is not a better option because of the situatuion that you are in, and you just need to wait it out and then restart the service&amp;hellip; I know it isn&amp;rsquo;t ideal and that there should be better ways around having to do this but hey ¯_(ツ)_/¯
+[Service] Type=simple Restart=always RestartSec=3 ExecStart=/path/to/script In my case I needed to wait it out and restart the service 2 hours after it died.</description>
+    </item>
+    
+    <item>
+      <title>splunk-hec-python</title>
+      <link>https://ridingintraffic.github.io/posts/2018-10-25-splunk-hec-python/</link>
+      <pubDate>Thu, 25 Oct 2018 08:08:50 -0400</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2018-10-25-splunk-hec-python/</guid>
+      <description>Splunk HTTP collector python script Hey the http collector is awesome so let use it in python to send things to stuff&amp;hellip; This is going to just take a dictionary as event data and then pass that to the http collector using only the request library . You will need to have a collector enabled for splunk and a token generated.
+#!/usr/bin/env python import time import requests import urllib3 ##turns off the warning that is generated below because using self signed ssl cert urllib3.</description>
+    </item>
+    
     <item>
       <title>2017-03-02 docker, bash, coffee</title>
       <link>https://ridingintraffic.github.io/posts/2017-03-02-docker-hack/</link>

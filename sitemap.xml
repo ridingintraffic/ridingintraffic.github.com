@@ -248,19 +248,37 @@
     <loc>https://ridingintraffic.github.io/posts/2018-11-13-qmk_deepdive_sweet16/</loc>
     <lastmod>2018-11-13T08:08:50-04:00</lastmod>
   </url><url>
+    <loc>https://ridingintraffic.github.io/tags/docker/</loc>
+    <lastmod>2018-11-12T08:08:50-04:00</lastmod>
+  </url><url>
     <loc>https://ridingintraffic.github.io/posts/2018-11-12-docker_powershell/</loc>
     <lastmod>2018-11-12T08:08:50-04:00</lastmod>
+  </url><url>
+    <loc>https://ridingintraffic.github.io/tags/splunk/</loc>
+    <lastmod>2018-11-09T08:08:50-04:00</lastmod>
+  </url><url>
+    <loc>https://ridingintraffic.github.io/tags/systemd/</loc>
+    <lastmod>2018-11-09T08:08:50-04:00</lastmod>
   </url><url>
     <loc>https://ridingintraffic.github.io/posts/2018-11-09-systemd-restart-fail/</loc>
     <lastmod>2018-11-09T08:08:50-04:00</lastmod>
   </url><url>
+    <loc>https://ridingintraffic.github.io/tags/outlook/</loc>
+    <lastmod>2018-11-06T08:08:50-04:00</lastmod>
+  </url><url>
     <loc>https://ridingintraffic.github.io/posts/2018-11-06-outlook-reminders/</loc>
     <lastmod>2018-11-06T08:08:50-04:00</lastmod>
   </url><url>
-    <loc>https://ridingintraffic.github.io/posts/2018-11-02-systemd-restarts/</loc>
+    <loc>https://ridingintraffic.github.io/tags/telegraf/</loc>
+    <lastmod>2018-11-06T08:08:50-04:00</lastmod>
+  </url><url>
+    <loc>https://ridingintraffic.github.io/tags/bash/</loc>
     <lastmod>2018-11-02T08:08:50-04:00</lastmod>
   </url><url>
     <loc>https://ridingintraffic.github.io/posts/2018-11-05-bash-ctrl-r/</loc>
+    <lastmod>2018-11-02T08:08:50-04:00</lastmod>
+  </url><url>
+    <loc>https://ridingintraffic.github.io/posts/2018-11-02-systemd-restarts/</loc>
     <lastmod>2018-11-02T08:08:50-04:00</lastmod>
   </url><url>
     <loc>https://ridingintraffic.github.io/posts/2018-10-25-splunk-hec-python/</loc>
@@ -302,9 +320,6 @@
     <loc>https://ridingintraffic.github.io/tags/markdown/</loc>
     <lastmod>2017-03-06T08:08:50-04:00</lastmod>
   </url><url>
-    <loc>https://ridingintraffic.github.io/tags/splunk/</loc>
-    <lastmod>2017-03-06T08:08:50-04:00</lastmod>
-  </url><url>
     <loc>https://ridingintraffic.github.io/posts/2017-03-03-roaster-info/</loc>
     <lastmod>2017-03-03T08:08:50-04:00</lastmod>
   </url><url>
@@ -318,12 +333,6 @@
     <lastmod>2017-03-02T08:08:50-04:00</lastmod>
   </url><url>
     <loc>https://ridingintraffic.github.io/posts/2017-03-03-up-all-night/</loc>
-    <lastmod>2017-03-02T08:08:50-04:00</lastmod>
-  </url><url>
-    <loc>https://ridingintraffic.github.io/tags/bash/</loc>
-    <lastmod>2017-03-02T08:08:50-04:00</lastmod>
-  </url><url>
-    <loc>https://ridingintraffic.github.io/tags/docker/</loc>
     <lastmod>2017-03-02T08:08:50-04:00</lastmod>
   </url><url>
     <loc>https://ridingintraffic.github.io/tags/ssh/</loc>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Telegraf on what did I learn today</title>
+    <link>https://ridingintraffic.github.io/tags/telegraf/</link>
+    <description>Recent content in Telegraf on what did I learn today</description>
+    <image>
+      <title>what did I learn today</title>
+      <url>https://ridingintraffic.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ridingintraffic.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 06 Nov 2018 08:08:50 -0400</lastBuildDate><atom:link href="https://ridingintraffic.github.io/tags/telegraf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Outlook-reminders</title>
+      <link>https://ridingintraffic.github.io/posts/2018-11-06-outlook-reminders/</link>
+      <pubDate>Tue, 06 Nov 2018 08:08:50 -0400</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2018-11-06-outlook-reminders/</guid>
+      <description>Outlook is terrible Yes outlook is horrible but when you have to use it, its nice to be able to set defaults that don&amp;rsquo;t annoy others. One such is the default reminder for the calendar&amp;hellip; Most of the time reminders aren&amp;rsquo;t useful unless they are used sparingly. Let turn them off. change-the-default-reminder-time
+tick stack and grafana i like the tick stack and it can be useful for a number of things, here is a brief overview of it.</description>
+    </item>
+    
+  </channel>
+</rss>
