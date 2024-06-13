@@ -1,12 +1,13 @@
 ---
 layout: single
-title: 2018-11-05 bash-ctrl+r
+title: bash-ctrl+r
 modified:
-categories: blog
+categories: [ daily ]
+tags : [ bash ]
 date: 2018-11-02T08:08:50-04:00
 ---
 
-# Bash ctrl+r 
+# Bash ctrl+r
 Bash has a special “recall” mode you can use to search for commands you’ve previously run:
 
 Ctrl+R: Recall the last command matching the characters you provide. Press this shortcut and start typing to search your bash history for a command.

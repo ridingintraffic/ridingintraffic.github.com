@@ -1,9 +1,10 @@
 ---
 draft: false
-title: 2018-11-12 docker-powershell
+title: docker-powershell
 modified:
-categories: blog
 date: 2018-11-12T08:08:50-04:00
+categories: [ daily ]
+tags : [ blog, docker ]
 ---
 
 # docker powershell

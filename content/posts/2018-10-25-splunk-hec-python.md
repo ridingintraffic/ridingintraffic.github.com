@@ -1,8 +1,9 @@
 ---
 layout: single
-title: 2018-10-25 splunk-hec-python
+title: splunk-hec-python
 modified:
-categories: blog
+categories: [ daily ]
+tags : [ splunk, python, bash ]
 date: 2018-10-25T08:08:50-04:00
 ---
 
@@ -33,14 +34,14 @@ def splunkHec(host, token, logdata):
 
 def main():
   while True:
-    
+
     data = ['kitchen','ballroom','conservatory','dining room','cellar','billiard room','library','lounge','hall','study']
     payload = {}
     payload.update({"index":"default"})
     payload.update({"sourcetype":"_json"})
     payload.update({"source":"status"})
     payload.update({"host":"test"})
-    payload.update({"event":data})  
+    payload.update({"event":data})
     splunkHec(splunkhost, authToken, payload)
 
     time.sleep(60)

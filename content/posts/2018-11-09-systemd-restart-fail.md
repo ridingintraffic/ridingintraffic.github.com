@@ -1,8 +1,9 @@
 ---
 layout: single
-title: 2018-11-09 Systemd-restarts-splunk-py
+title: Systemd-restarts-splunk-py
 modified:
-categories: blog
+categories: [ daily ]
+tags : [ systemd, splunk ]
 date: 2018-11-09T08:08:50-04:00
 ---
 
@@ -72,7 +73,7 @@ def splunkHec(host, token, logdata):
 
 def main():
   while True:
-  
+
 
     payload = {}
     payload.update({"index":"my_index"})

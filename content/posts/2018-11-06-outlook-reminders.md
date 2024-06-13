@@ -1,8 +1,9 @@
 ---
 layout: single
-title: 2018-11-06 Outlook-reminders
+title: Outlook-reminders
 modified:
-categories: blog
+categories: [ daily ]
+tags : [ outlook, telegraf ]
 date: 2018-11-06T08:08:50-04:00
 ---
 
