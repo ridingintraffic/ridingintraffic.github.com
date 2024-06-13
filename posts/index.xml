@@ -1699,5 +1699,15 @@ nc -zv 127.0.0.1 1-65535 </description>
       <description>I have been thinking that I should start writing again. Over the past few years I have gone back and forth on the writing and finding both the time and the inspiration to begin writing again. Why have I not been writing enough? Part of it is I have not had the creative energy, and I have not had the inspiration, or I have not been remembering to do it. Also, I&amp;rsquo;ve not been writing down things I&amp;rsquo;m learning, and it&amp;rsquo;s frustrating because I cannot remember what things are, and in order to solve that, I simply need to write things down and start writing again.</description>
     </item>
     
+    <item>
+      <title>zmk dongles</title>
+      <link>https://ridingintraffic.github.io/posts/2024-05-14-zmk_dongles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2024-05-14-zmk_dongles/</guid>
+      <description>I am trying to create a dongle setup to use with my wireless skeltyls. I have not been using them as much as i would like because they are a giant pita to deal with when they come out of sleep, and when they are reconnecting. so i thought that i would like to try and do a dongle mode with them and see how it goes.
+Working with ZMK dongles mode in ZMK I have a ZMK keyboard.</description>
+    </item>
+    
   </channel>
 </rss>
