@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ai on what did I learn today</title>
+    <link>https://ridingintraffic.github.io/tags/ai/</link>
+    <description>Recent content in Ai on what did I learn today</description>
+    <image>
+      <title>what did I learn today</title>
+      <url>https://ridingintraffic.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ridingintraffic.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://ridingintraffic.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>openai whisper</title>
+      <link>https://ridingintraffic.github.io/posts/2024-06-13-audio_transcription/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2024-06-13-audio_transcription/</guid>
+      <description>Lets use some ai magic to transcribe audio in the command line. simple enough with whisper https://github.com/openai/whisper
+whisper audiofile.m4a --language English --model medium and then there is the python version which is oktoo
+import whisper model = whisper.load_model(&amp;#34;base&amp;#34;) result = model.transcribe(&amp;#34;audio.mp3&amp;#34;) print(result[&amp;#34;text&amp;#34;]) I have had pretty good results with it but i think that i like the ui better for a simple macos app called whisper transcription. there is a paid tier but the free one is good enough for me.</description>
+    </item>
+    
+  </channel>
+</rss>
