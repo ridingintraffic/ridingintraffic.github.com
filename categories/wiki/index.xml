@@ -22,15 +22,6 @@ https://github.com/wilmardo/ansible-role-plex repo for the plex install with ans
     </item>
     
     <item>
-      <title>chef</title>
-      <link>https://ridingintraffic.github.io/posts/2016-02-19-chef/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ridingintraffic.github.io/posts/2016-02-19-chef/</guid>
-      <description>chef notes $ kitchen list $ kitchen converge ;# creates the vagrant box from the kitchen.yml $ kitchen exec -c whoami ;#fire a command from insid ethe vagrant box $ kitchen verify ;# runs the tests that are configured $ kitchen login ; # logs into the box directly gives a shell </description>
-    </item>
-    
-    <item>
       <title>chef notes</title>
       <link>https://ridingintraffic.github.io/posts/2018-02-19-chef-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

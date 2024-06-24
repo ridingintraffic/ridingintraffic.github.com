@@ -885,6 +885,15 @@ fitbit There has been research done around the accuracy of optical heart rate mo
     </item>
     
     <item>
+      <title>chef</title>
+      <link>https://ridingintraffic.github.io/posts/2016-02-19-chef/</link>
+      <pubDate>Fri, 19 Feb 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://ridingintraffic.github.io/posts/2016-02-19-chef/</guid>
+      <description>chef notes $ kitchen list $ kitchen converge ;# creates the vagrant box from the kitchen.yml $ kitchen exec -c whoami ;#fire a command from insid ethe vagrant box $ kitchen verify ;# runs the tests that are configured $ kitchen login ; # logs into the box directly gives a shell </description>
+    </item>
+    
+    <item>
       <title>2017-02-24 coffee, jekyll, hugo</title>
       <link>https://ridingintraffic.github.io/posts/2017-02-24-first-friday/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1552,15 +1561,6 @@ as learned from watching a local bagel shop do it for a couple years. heat pan i
       <guid>https://ridingintraffic.github.io/posts/2019-02-12-certs/</guid>
       <description>self signed certs Genning certs is always a pita, luckily I found a quick and easy way from the folks over at spiderlabs, to do it.. gen-self-signed-cert.sh
 #!/bin/bash openssl genrsa -out my.key 2048 openssl req -new -x509 -days 3650 -key my.key -out my.crt -subj &amp;#34;/&amp;#34; </description>
-    </item>
-    
-    <item>
-      <title>chef</title>
-      <link>https://ridingintraffic.github.io/posts/2016-02-19-chef/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ridingintraffic.github.io/posts/2016-02-19-chef/</guid>
-      <description>chef notes $ kitchen list $ kitchen converge ;# creates the vagrant box from the kitchen.yml $ kitchen exec -c whoami ;#fire a command from insid ethe vagrant box $ kitchen verify ;# runs the tests that are configured $ kitchen login ; # logs into the box directly gives a shell </description>
     </item>
     
     <item>
