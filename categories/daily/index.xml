@@ -619,15 +619,6 @@ This will let you p[lug in a usb drive to a synolgoy nas and then from there con
     </item>
     
     <item>
-      <title>chef</title>
-      <link>https://ridingintraffic.github.io/posts/2016-02-19-chef/</link>
-      <pubDate>Fri, 19 Feb 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://ridingintraffic.github.io/posts/2016-02-19-chef/</guid>
-      <description>chef notes $ kitchen list $ kitchen converge ;# creates the vagrant box from the kitchen.yml $ kitchen exec -c whoami ;#fire a command from insid ethe vagrant box $ kitchen verify ;# runs the tests that are configured $ kitchen login ; # logs into the box directly gives a shell </description>
-    </item>
-    
-    <item>
       <title>2018_07_31_python_webserver</title>
       <link>https://ridingintraffic.github.io/posts/2018-07-31-python-websever/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

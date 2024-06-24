@@ -443,6 +443,9 @@
     <loc>https://ridingintraffic.github.io/tags/chef/</loc>
     <lastmod>2016-02-19T00:00:00-05:00</lastmod>
   </url><url>
+    <loc>https://ridingintraffic.github.io/categories/wiki/</loc>
+    <lastmod>2016-02-19T00:00:00-05:00</lastmod>
+  </url><url>
     <loc>https://ridingintraffic.github.io/posts/2017-02-24-first-friday/</loc>
   </url><url>
     <loc>https://ridingintraffic.github.io/posts/2017-03-05-vpns-are-annoying/</loc>
@@ -628,7 +631,5 @@
     <loc>https://ridingintraffic.github.io/tags/vnc/</loc>
   </url><url>
     <loc>https://ridingintraffic.github.io/tags/vpn/</loc>
-  </url><url>
-    <loc>https://ridingintraffic.github.io/categories/wiki/</loc>
   </url>
 </urlset>
