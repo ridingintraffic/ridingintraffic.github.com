@@ -5,7 +5,6 @@ draft: false
 categories: [ daily ]
 tags : [ blog ]
 ---
-# The Case for Intentionally Slowing Down
 ### Series: The Fragmented Thought — Article 1
 
 ---
